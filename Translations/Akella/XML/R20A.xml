@@ -1,0 +1,7 @@
+<Strings>
+	<Text>\nАварийный генератор.{clear 0} ##Включить его?\n#</Text>
+	<Text>Аварийный \nгенератор.{clear 0} ##Повернуть выключатель?#</Text>
+	<Text>Это выключатель\nпод#емника лестницы.{clear 0} ##Он не работает,\nтак как питание{clear 0} ##\nотключено.</Text>
+	<Text>Это выключатель\nпод#емника лестницы.{clear 0} ##Опустить лестницу?\n#</Text>
+	<Text>\nЭнергия подана.Will you lower the ladder?\n# \nPower is being supplied.</Text>
+</Strings>

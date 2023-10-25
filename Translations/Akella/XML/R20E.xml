@@ -1,0 +1,17 @@
+<Strings>
+	<Text>\nТам есть шестигранное отверстие.</Text>
+	<Text>Туда вставлена сломанная\nручка.{clear 0} # не смогу повернуть\nее просто так.</Text>
+	<Text>\nВнутри опасно!</Text>
+	<Text>\n   ######,йТЛ##П</Text>
+	<Text>Туда вставлена сломанная\nручка.{clear 0} # не смогу повернуть\nее просто так.</Text>
+	<Text>\nЖалюзи опущены.</Text>
+	<Text>Это бензозаправочная\nколонка.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>Вам больше не нужна эта\n{color 1}ручка{color 0}.{clear 0} Выкинуть ее?\n#</Text>
+</Strings>

@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 33}</Text>
+    <Text>{scroll 2}Термошкаф для хранения\nмасла.</Text>
+    <Text>{scroll 2}Термошкаф для хранения\nмасла с электронным замком.{clear 0}Вы попытаетесь\nоткрыть его?{branch 0}</Text>
+    <Text>{scroll 2}Термошкаф для хранения\nмасла.{clear 0}Внутри нет ничего\nполезного.</Text>
+    <Text>{scroll 2}\nТовары для мойки машин.</Text>
+    <Text>{scroll 2}\nНеопрятный прилавок.</Text>
+    <Text>{scroll 2}Полка с лакокрасочными\nматериалами.</Text>
+    <Text>{scroll 2}\nНичего особенного.</Text>
+    <Text>{scroll 2}Здесь разлито машинное\nмасло.</Text>
+    <Text>{scroll 2}Карлос наблюдает\nза улицей.</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 42}</Text>
+</Strings>

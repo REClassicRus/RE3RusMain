@@ -1,0 +1,33 @@
+﻿<Strings>
+    <Text>{scroll 0}\nЧто ты натворил?!{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\nУ меня не было выбора.{clear 44}Он начал превращаться\nв зомби.{clear 64}{scroll 1}{timed 11}</Text>
+    <Text>{scroll 0}Он стал бы для нас угрозой,\nпоэтому я устранил его.{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}Но ведь он был ещё\nв сознании, не так ли?{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\nОн всё равно бы не выжил...{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}И к тому же, убив его сейчас,\nя истратил меньше патронов,{clear 71}чем понадобилось бы после\nего трансформации.{clear 66}{scroll 1}{timed 2}</Text>
+    <Text>{scroll 0}\nНе сейчас! Я занят!{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Не проси меня об этом,\nМёрфи!{clear 56}Я не собираюсь стрелять\nв тебя!{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}\nУбей меня!{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\nМне конец...{clear 58}\nЯ больше не человек...{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}\nПодожди! Мы...{clear 51}Мы не должны этого\nделать...{clear 63}{scroll 1}{timed 6}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 20}</Text>
+    <Text>{scroll 0}\nУмоляю, быстрее...{clear 60}{clear 16}Пока я не потерял\nсознание...{clear 62}Пока ещё не слишком\nпоздно...{clear 68}{scroll 1}{timed 10}</Text>
+    <Text>{scroll 0}\nУбей меня...!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nМёрфи..!{clear 48}{clear 53}\nПочему?!{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nКарлос!{scroll 1}{timed 39}</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nПустые флаконы.</Text>
+    <Text>{scroll 2}“Данные о продажах за\nтекущий квартал.”</Text>
+    <Text>{scroll 2}ТВ монитор.\nПитание включено.</Text>
+    <Text>{scroll 2}\nНичего примечательного.</Text>
+    <Text>{scroll 2}Каталог продукции и\nброшюры компании.</Text>
+    <Text>{scroll 2}{snd 22}\n“Фармацевтический склад”{clear 0}“Доступ осуществляется\nчерез компьютер.”</Text>
+    <Text>{scroll 2}Компьютер Николая.\nКак жаль, что он разбит...</Text>
+    <Text>{scroll 2}Николай исследует тело\nнаёмника, используя свой ПК.</Text>
+    <Text>{scroll 2}Вы воспользуетесь\nпультом ДУ?{branch 0}</Text>
+    <Text>{scroll 0}\n“..Стой!”{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n“..Нет!”{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\nНет.. Нет..!{clear 80}{scroll 1}{timed 33}</Text>
+</Strings>

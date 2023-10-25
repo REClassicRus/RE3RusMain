@@ -1,0 +1,20 @@
+<Strings>
+	<Text>\n</Text>
+	<Text>\nЭта дверь закрыта.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\nБольшой холодильник.{clear 0} На нем следы когтей, что\nговорит о том, что{clear 0} кто-то пытался\nоткрыть его изнутри.</Text>
+	<Text>Это, похоже, часть \nэлектрического оборудования.{clear 0} Здесь нет ничего\nподозрительного.</Text>
+	<Text>Часть стены \nобнажена.{clear 0} Кто-то, по-видимому,\nработал над тесктом.</Text>
+	<Text>\n«Идет обработка.»</Text>
+	<Text>«Чтобы открыть, вставьте {color 1}системный\nдиск{color 1}»</Text>
+	<Text>\n                  {clear 0}р\n                  #.</Text>
+</Strings>

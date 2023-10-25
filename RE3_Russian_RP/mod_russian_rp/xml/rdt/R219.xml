@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}Огнеупорная роллета\nзадраена.</Text>
+    <Text>{scroll 2}Переключатель огнеупорной\nроллеты.{clear 0}Нет питания.\nКнопка неактивна.</Text>
+    <Text>{scroll 2}Переключатель огнеупорной\nроллеты.{clear 0}Вы нажмёте на кнопку?\n{branch 0}</Text>
+    <Text>{scroll 2}Распределительный щиток\nобесточен.{clear 0}Включить питание?\n{branch 0}</Text>
+    <Text>{scroll 2}\nПитание восстановлено.</Text>
+    <Text>{scroll 2} </Text>
+</Strings>

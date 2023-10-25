@@ -1,0 +1,65 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}{branch 160}Поговорить с Николаем{live}Ответный огонь по вертолёту{live}</Text>
+    <Text>{scroll 2}\nПортативный приёмник РЛС.</Text>
+    <Text>{scroll 2}Вы взяли портативный\nприёмник РЛС.</Text>
+    <Text>{scroll 2}\nЛюк закрыт.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nДжилл? Джилл, где ты?{timed 68}</Text>
+    <Text>{scroll 0}Если ты слышишь это\nсообщение, ответь немедленно!{timed 104}</Text>
+    <Text>{scroll 0}\nЯ здесь. В чём дело?{timed 42}</Text>
+    <Text>{scroll 0}Я нашёл для нас\nтранспорт.{clear 45}Двигатели вертолёта\nзапущены и он готов лететь!{timed 64}</Text>
+    <Text>{scroll 0}\nУже иду.{clear 35}{timed 2}</Text>
+    <Text>{scroll 0}Этот город скоро станет\nэпицентром взрыва. Поспеши!{clear 88}...Да, и не забудь взять\nс собой тот прибор.{timed 86}</Text>
+    <Text>{scroll 0}\nДля чего он?{timed 39}</Text>
+    <Text>{scroll 0}Это устройство показывает\nрасстояние до{clear 51}\nприближающейся ракеты.{clear 41}Обязательно возьми\nего с собой.{timed 61}</Text>
+    <Text>{scroll 0}А теперь послушай меня...\nНе сдавайся!{clear 78}\nМы оба переживём это!{clear 49}Давай только выберемся\nотсюда!{clear 51}{timed 6}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}Внимание: Ракетная атака\nподтверждена.{clear 115} {clear 8}Внимание: Ракетная атака\nподтверждена.{clear 115} {clear 10}\nУровень тревоги D.{clear 96}Всему персоналу:\nНемедленно эвакуироваться.{clear 112}{scroll 1}{timed 17}</Text>
+    <Text>{scroll 0}“Ты ещё жива...\nКакое упорство!”{timed 99}</Text>
+    <Text>{scroll 0}\nНиколай..?{timed 45}</Text>
+    <Text>{scroll 0}“Прости, но отсюда\nуже не спастись.”{timed 101}</Text>
+    <Text>{scroll 0}Так ты решил убраться\nотсюда в одиночку...{clear 56}\nИ это твой план?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}“Я убедился в том, что\nникто из остальных{clear 58}\nнаблюдателей не выжил.”{timed 62}</Text>
+    <Text>{scroll 0}“Поскольку я буду\nединственным,{clear 41}кто знает, что случилось\nна самом деле, у меня будет{clear 67}большое преимущество\nпри обсуждении{clear 59}\nразмеров моего гонорара.{timed 51}</Text>
+    <Text>{scroll 0}Тогда зачем убивать меня?\nЯ ведь ни на что не претендую.{timed 83}</Text>
+    <Text>{scroll 0}“Они хотят избавиться\nот тебя по личным мотивам.”{clear 119}{timed 5}</Text>
+    <Text>{scroll 0}“Много мне не заплатят, но я\nмогу рассчитывать на премию{clear 84}после подтверждения\nфакта твоей смерти!”{timed 96}</Text>
+    <Text>{scroll 0}\n{timed 170}</Text>
+    <Text>{scroll 0}“Конечно, мне будет нехватать\nтебя, но нам пора прощаться.”{timed 131}</Text>
+    <Text>{scroll 0}“Ты можешь принять\nсмерть с достоинством {clear 70}\nили умереть в отчаянии.”{timed 62}</Text>
+    <Text>{scroll 0}\n“Выбор за тобой!”{timed 85}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\nДжилл! Что случилось?{timed 51}</Text>
+    <Text>{scroll 0}Карлос... Николай оставил\nнас без вертолёта.{timed 147}</Text>
+    <Text>{scroll 0}\nКарлос... Вертолёт...{timed 97}</Text>
+    <Text>{scroll 0}\nТогда, наверное, всё кончено...{clear 62} {clear 5}Но я не хочу умирать\nв таком месте как это!{timed 93}</Text>
+    <Text>{scroll 0}\nЭто ещё не конец!{clear 63} {timed 7}</Text>
+    <Text>{scroll 0}Я не сдамся, Джилл!\nУ нас всё ещё есть шанс!{timed 85}</Text>
+    <Text>{scroll 0}\nЯ не собираюсь сдаваться!{timed 58}</Text>
+    <Text>{scroll 0}Но... Должен же быть\nкакой-то выход!{timed 92}</Text>
+    <Text>{scroll 0}\n“Это... Приём.”{clear 72} {clear 6}“Я здесь, чтобы\nвытащить Джилл.”{clear 71} {clear 20}“Но, боюсь, мне не хватит\nвремени, чтобы найти её...”{clear 90} {timed 6}</Text>
+    <Text>{scroll 0}\n“Это ＳＴＡＲＳ..”{clear 64} {clear 10}“Пожалуйста, ответь Джилл.\n Я здесь...”{clear 66}\n“Ты слышишь меня?”{clear 56}\n“Отзовись...”{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nЭй, он назвал твоё имя!{timed 76}</Text>
+    <Text>{scroll 0}\nКто это может быть?{timed 40}</Text>
+    <Text>{scroll 0}\nКакая разница!{timed 43}</Text>
+    <Text>{scroll 0}Нужно сообщить ему,\nгде мы!{clear 51}{timed 2}</Text>
+    <Text>{scroll 0}\nПолучилось!{clear 32}А теперь пора выбираться\nотсюда. Сейчас же!{timed 71}</Text>
+    <Text>{scroll 0}\nДжилл!{timed 33}</Text>
+    <Text>{scroll 0}\nПолучилось!{clear 32}А теперь пора выбираться\nотсюда. Сейчас же!{timed 71}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+</Strings>

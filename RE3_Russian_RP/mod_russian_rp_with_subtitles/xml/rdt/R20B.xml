@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 104}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 204}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 164}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 146}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 2}На его теле сразу несколько\nсмертельных ран.</Text>
+    <Text>{scroll 2}\nСломанные часы.</Text>
+    <Text>{scroll 2}Дорогу разделяет мощная\nбаррикада.</Text>
+</Strings>

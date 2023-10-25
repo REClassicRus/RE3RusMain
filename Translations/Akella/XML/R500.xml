@@ -1,0 +1,8 @@
+<Strings>
+	<Text>Закрыто на электронный\nзамок.</Text>
+	<Text>Это {color 1}считывающее устройство{color 1} \n</Text>
+	<Text>Аварийный замок \nвключен.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>Вам больше не нужна эта\n{color 1}ключ-карта{color 0}.{clear 0} Выкинуть ее?\n#</Text>
+</Strings>

@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Ручные тележки и старое\nмедицинское оборудование.</Text>
+    <Text>{scroll 2}Выберите нужный этаж:{branch 64}4Э{live}1Э{live}Открыть{live}Отмена{live}</Text>
+    <Text>{scroll 2}\nДвери не закрываются!</Text>
+    <Text>{scroll 2}\nМне сейчас не до этого.</Text>
+    <Text>{scroll 2}Крупные приборы\nвмонтированы в стену.</Text>
+</Strings>

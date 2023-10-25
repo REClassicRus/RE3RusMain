@@ -1,0 +1,182 @@
+<Encoding width="10" indent="0">
+	<!-- fake symbols used by save files to display correct messages -->
+	<Entry Encode="0x16" Char="^"/>
+	<Entry Encode="0x38" Char="_"/>
+
+	<!-- Таблица -->
+	<Entry Encode="0x00" Char=" " width="7"/>
+	<Entry Encode="0x01" Char="." width="5" indent="2"/>
+	<Entry Encode="0x02" Char="►" width="17" indent="0"/>
+	<Entry Encode="0x05" Char="(" width="7" indent="5"/>
+	<Entry Encode="0x06" Char=")" width="7" indent="3"/>
+	<Entry Encode="0x09" Char="‟" width="8" indent="6"/>
+	<Entry Encode="0x09" Char="“" width="8" indent="6"/>
+	<Entry Encode="0x0A" Char="”" width="8" indent="1"/>
+	<Entry Encode="0x0B" Char="@" width="14" indent="0"/>
+	<Entry Encode="0x0C" Char="0" width="12" indent="1"/>
+	<Entry Encode="0x0D" Char="1" width="5" indent="5"/>
+	<Entry Encode="0x0E" Char="2" width="10" indent="2"/>
+	<Entry Encode="0x0F" Char="3" width="11" indent="2"/>
+	<Entry Encode="0x10" Char="4" width="13" indent="1"/>
+	<Entry Encode="0x11" Char="5" width="11" indent="2"/>
+	<Entry Encode="0x12" Char="6" width="11" indent="1"/>
+	<Entry Encode="0x13" Char="7" width="11" indent="2"/>
+	<Entry Encode="0x14" Char="8" width="11" indent="2"/>
+	<Entry Encode="0x15" Char="9" width="12" indent="1"/>
+	<Entry Encode="0x16" Char=":" width="5" indent="5"/>
+	<Entry Encode="0x17" Char=";" width="5" indent="3"/>
+	<Entry Encode="0x18" Char="," width="7" indent="2"/>
+	<Entry Encode="0x19" Char="&#34;" width="7"/>
+	<Entry Encode="0x1A" Char="!" width="4" indent="4"/>
+	<Entry Encode="0x1B" Char="?" width="8" indent="2"/>
+	<Entry Encode="0x1C" Char="$" width="10" indent="1"/>
+	<Entry Encode="0x1D" Char="A" width="14"/>
+	<Entry Encode="0x1E" Char="B" width="13" indent="1"/>
+	<Entry Encode="0x1F" Char="C" width="12" indent="1"/>
+	<Entry Encode="0x20" Char="D" width="12" indent="1"/>
+	<Entry Encode="0x21" Char="E" width="12" indent="1"/>
+	<Entry Encode="0x22" Char="F" width="11" indent="2"/>
+	<Entry Encode="0x23" Char="G" width="13" indent="1"/>
+	<Entry Encode="0x24" Char="H" width="14"/>
+	<Entry Encode="0x25" Char="I" width="6" indent="4"/>
+	<Entry Encode="0x26" Char="J" width="13" indent="1"/>
+	<Entry Encode="0x27" Char="K" width="13" indent="1"/>
+	<Entry Encode="0x28" Char="L" width="13" indent="1"/>
+	<Entry Encode="0x29" Char="M" width="15"/>
+	<Entry Encode="0x2A" Char="N" width="14"/>
+	<Entry Encode="0x2B" Char="O" width="13" indent="1"/>
+	<Entry Encode="0x2C" Char="P" width="12" indent="1"/>
+	<Entry Encode="0x2D" Char="Q" width="14"/>
+	<Entry Encode="0x2E" Char="R" width="14"/>
+	<Entry Encode="0x2F" Char="S" width="12" indent="1"/>
+	<Entry Encode="0x30" Char="T" width="13" indent="1"/>
+	<Entry Encode="0x31" Char="U" width="13" indent="1"/>
+	<Entry Encode="0x32" Char="V" width="13" indent="1"/>
+	<Entry Encode="0x33" Char="W" width="15"/>
+	<Entry Encode="0x34" Char="X" width="13" indent="1"/>
+	<Entry Encode="0x35" Char="Y" width="13" indent="1"/>
+	<Entry Encode="0x36" Char="Z" width="13" indent="1"/>
+	<Entry Encode="0x37" Char="+" width="14" indent="1"/>
+	<Entry Encode="0x38" Char="/" width="15"/>
+	<Entry Encode="0x39" Char="−" width="12" indent="1"/>
+	<Entry Encode="0x3A" Char="&#39;" width="4"/>
+	<Entry Encode="0x3A" Char="´" width="4"/>
+	<Entry Encode="0x3B" Char="-" width="12" indent="1"/>
+	<Entry Encode="0x3C" Char="·" width="7"/>
+	<Entry Encode="0x3D" Char="a" width="10" indent="2"/>
+	<Entry Encode="0x3E" Char="b" width="10" indent="2"/>
+	<Entry Encode="0x3F" Char="c" width="9" indent="3"/>
+	<Entry Encode="0x40" Char="d" width="10" indent="2"/>
+	<Entry Encode="0x41" Char="e" width="9" indent="3"/>
+	<Entry Encode="0x42" Char="f" width="8" indent="3"/>
+	<Entry Encode="0x43" Char="g" width="10" indent="2"/>
+	<Entry Encode="0x44" Char="h" width="11" indent="2"/>
+	<Entry Encode="0x45" Char="i" width="6" indent="4"/>
+	<Entry Encode="0x46" Char="j" width="6" indent="4"/>
+	<Entry Encode="0x47" Char="k" width="11" indent="2"/>
+	<Entry Encode="0x48" Char="l" width="6" indent="4"/>
+	<Entry Encode="0x49" Char="m" width="14"/>
+	<Entry Encode="0x4A" Char="n" width="11" indent="2"/>
+	<Entry Encode="0x4B" Char="o" width="10" indent="2"/>
+	<Entry Encode="0x4C" Char="p" width="10" indent="2"/>
+	<Entry Encode="0x4D" Char="q" width="10" indent="2"/>
+	<Entry Encode="0x4E" Char="r" width="8" indent="1"/>
+	<Entry Encode="0x4F" Char="s" width="9" indent="3"/>
+	<Entry Encode="0x50" Char="t" width="8" indent="3"/>
+	<Entry Encode="0x51" Char="u" width="11" indent="2"/>
+	<Entry Encode="0x52" Char="v" width="11" indent="2"/>
+	<Entry Encode="0x53" Char="w" width="14"/>
+	<Entry Encode="0x54" Char="x" width="11" indent="2"/>
+	<Entry Encode="0x55" Char="y" width="11" indent="2"/>
+	<Entry Encode="0x56" Char="z" width="9" indent="3"/>
+	
+	<!-- STARS -->
+	<Entry Encode="0xB4" Char="Ｓ" width="14"/>
+	<Entry Encode="0xB5" Char="Ｔ" width="14"/>
+	<Entry Encode="0xB6" Char="Ａ" width="15"/>
+	<Entry Encode="0xB7" Char="Ｒ" width="15"/>
+	
+	<Entry Encode="0xB9" Char="&amp;" width="12"/>
+
+	<!-- Без применения -->
+	<Entry Encode="0x9A" Char="„" width="7"/>
+	<Entry Encode="0x9C" Char="▲"/>
+	<Entry Encode="0x9D" Char="`" width="4" indent="2"/>
+	<Entry Encode="0x9E" Char="Æ" width="11"/>
+	<Entry Encode="0x9F" Char="æ" width="11"/>
+	<Entry Encode="0xA0" Char="Ø"/>
+	<Entry Encode="0xA1" Char="ø"/>
+	<Entry Encode="0xA2" Char="Å"/>
+	<Entry Encode="0xA3" Char="å"/>
+	
+	<!-- Сжатые по размеру -->
+	<Entry Encode="0x00" Char="*" width="4"/><!-- Пробел -->
+	
+	<!-- Русские буквы -->
+	<Entry Encode="0x57" Char="А" width="14"/>
+	<Entry Encode="0x58" Char="Б" width="13"/>
+	<Entry Encode="0x59" Char="В" width="13"/>
+	<Entry Encode="0x5A" Char="Г" width="11"/>
+	<Entry Encode="0x5B" Char="Д" width="13"/>
+	<Entry Encode="0x5C" Char="Е" width="12"/>
+	<Entry Encode="0x5D" Char="Ё" width="12"/>
+	<Entry Encode="0x5E" Char="Ж" width="14"/>
+	<Entry Encode="0x5F" Char="З" width="11" indent="1"/>
+	<Entry Encode="0x60" Char="И" width="14"/>
+	<Entry Encode="0x61" Char="Й" width="14"/>
+	<Entry Encode="0x62" Char="К" width="14"/>
+	<Entry Encode="0x63" Char="Л" width="13"/>
+	<Entry Encode="0x64" Char="М" width="15"/>
+	<Entry Encode="0x65" Char="Н" width="14"/>
+	<Entry Encode="0x66" Char="О" width="13"/>
+	<Entry Encode="0x67" Char="П" width="13"/>
+	<Entry Encode="0x68" Char="Р" width="12"/>
+	<Entry Encode="0x69" Char="С" width="12"/>
+	<Entry Encode="0x6A" Char="Т" width="13"/>
+	<Entry Encode="0x6B" Char="У" width="13"/>
+	<Entry Encode="0x6C" Char="Ф" width="14"/>
+	<Entry Encode="0x6D" Char="Х" width="13"/>
+	<Entry Encode="0x6E" Char="Ц" width="13"/>
+	<Entry Encode="0x6F" Char="Ч" width="13"/>
+	<Entry Encode="0x70" Char="Ш" width="14"/>
+	<Entry Encode="0x71" Char="Щ" width="14"/>
+	<Entry Encode="0x72" Char="Ъ" width="13" indent="1"/>
+	<Entry Encode="0x73" Char="Ы" width="15"/>
+	<Entry Encode="0x74" Char="Ь" width="11" indent="2"/>
+	<Entry Encode="0x75" Char="Э" width="12"/>
+	<Entry Encode="0x76" Char="Ю" width="14"/>
+	<Entry Encode="0x77" Char="Я" width="13"/>
+	<Entry Encode="0x78" Char="а" width="10" indent="2"/>
+	<Entry Encode="0x79" Char="б" width="10" indent="1"/>
+	<Entry Encode="0x7A" Char="в" width="10" indent="1"/>
+	<Entry Encode="0x7B" Char="г" width="8" indent="1"/>
+	<Entry Encode="0x7C" Char="д" width="9" indent="1"/>
+	<Entry Encode="0x7D" Char="е" width="9" indent="1"/>
+	<Entry Encode="0x7E" Char="ё" width="9" indent="1"/>
+	<Entry Encode="0x7F" Char="ж" width="12"/>
+	<Entry Encode="0x80" Char="з" width="9" indent="2"/>
+	<Entry Encode="0x81" Char="и" width="11"/>
+	<Entry Encode="0x82" Char="й" width="11"/>
+	<Entry Encode="0x83" Char="к" width="10"/>
+	<Entry Encode="0x84" Char="л" width="10"/>
+	<Entry Encode="0x85" Char="м" width="12"/>
+	<Entry Encode="0x86" Char="н" width="11" indent="1"/>
+	<Entry Encode="0x87" Char="о" width="10" indent="1"/>
+	<Entry Encode="0x88" Char="п" width="10"/>
+	<Entry Encode="0x89" Char="р" width="10" indent="1"/>
+	<Entry Encode="0x8A" Char="с" width="9" indent="1"/>
+	<Entry Encode="0x8B" Char="т" width="10"/>
+	<Entry Encode="0x8C" Char="у" width="11"/>
+	<Entry Encode="0x8D" Char="ф" width="12"/>
+	<Entry Encode="0x8E" Char="х" width="11" indent="1"/>
+	<Entry Encode="0x8F" Char="ц" width="10" indent="1"/>
+	<Entry Encode="0x90" Char="ч" width="10" indent="1"/>
+	<Entry Encode="0x91" Char="ш" width="14"/>
+	<Entry Encode="0x92" Char="щ" width="14" indent="1"/>
+	<Entry Encode="0x93" Char="ъ" width="9" indent="4"/>
+	<Entry Encode="0x94" Char="ы" width="12" indent="2"/>
+	<Entry Encode="0x95" Char="ь" width="9" indent="3"/>
+	<Entry Encode="0x96" Char="э" width="10" indent="1"/>
+	<Entry Encode="0x97" Char="ю" width="12"/>
+	<Entry Encode="0x98" Char="я" width="10" indent="1"/>
+</Encoding>

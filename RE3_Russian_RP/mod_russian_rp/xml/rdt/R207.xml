@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 2}\nНеработающие часы.{clear 0}{scroll 2}Двух драгоценных камней\nне хватает на циферблате.</Text>
+    <Text>{scroll 2}\nНеработающие часы.{clear 0}{scroll 2}На циферблате не хватает\nодного драгоценного камня.</Text>
+    <Text>{scroll 2}Видимо, для запуска\nмеханизма этого недостаточно.</Text>
+    <Text>{scroll 2}\n </Text>
+    <Text>{scroll 2}“Часы работы: с 9:00\nдо 17:00. По окончании{clear 0}{scroll 2}рабочего дня, ворота\nзакрываются автоматически.”</Text>
+    <Text>{scroll 2}Все драгоценные камни\nустановлены и, похоже,{clear 0}{scroll 2}\nтеперь часы работают.</Text>
+    <Text>{scroll 2}\n“ЭКСКЛЮЗИВ НЕДЕЛИ!{clear 0}{scroll 2}Инцидент в Арклайских\nгорах раскрыт!”</Text>
+    <Text>{scroll 2}\nВнутри пусто.</Text>
+    <Text>{scroll 0}Я хочу знать, зачем вас\nсюда послала Амбрелла?{scroll 1}{timed 104}</Text>
+    <Text>{scroll 0}Затем, чтобы спасать\nгражданское население.{scroll 1}{timed 101}</Text>
+    <Text>{scroll 0}\nЧто за бред!{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Да они же первые, кто\nстоит за всем этим!{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nПослушай...{clear 33}Мы всего лишь наёмники,\nисполняющие приказ.{timed 84}</Text>
+    <Text>{scroll 0}Думаешь, хозяин объясняет\nсвоим псам, зачем им нужно{clear 77}принести палку, которую\nон кинул?!{timed 71}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Слушай, если тебе нужны\nответы насчёт Амбреллы,{clear 75}то ты говоришь не с тем\nпарнем.{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}\nДоговорим позже.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nЗнаю, в это трудно поверить,{clear 38}но мы здесь только ради\nспасения гражданских.{timed 56}</Text>
+    <Text>{scroll 0}Но если ты веришь мне,\nто присоединяйся к нам! {clear 75}\nПодумай об этом.{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Мне нужно у тебя\nкое-что спросить.{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}Зачем Амбрелла послала\nсюда вашу команду?{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}Наше задание ]\nспасти гражданских.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}\nКакое благородство.{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}Учитывая, что Амбрелла\nпервая, кто стоит{clear 61}за всем этим. Лживые\nмерзавцы!{timed 66}</Text>
+    <Text>{scroll 0}\nПослушай...{clear 33}Мы всего лишь наёмники,\nисполняющие приказ.{timed 73}</Text>
+    <Text>{scroll 0}{clear 32}\nСейчас не до разговоров.{clear 48}Если ты веришь мне, то\nприсоединяйся к нам!{clear 57}\nПодумай об этом!{timed 52}</Text>
+    <Text>{scroll 0}Я знаю. Ты хочешь пригласить\nменя на свидание.{clear 71}Всем хорошеньким дамочкам\nнравится мой акцент.{clear 76}\nОн сводит их с ума...{scroll 1}{timed 60}</Text>
+    <Text>{scroll 0}Подожди. Я должна\nтебя кое о чём спросить.{timed 89}</Text>
+</Strings>

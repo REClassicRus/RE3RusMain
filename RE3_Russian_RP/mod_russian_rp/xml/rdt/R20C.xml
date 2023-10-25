@@ -1,0 +1,62 @@
+﻿<Strings>
+    <Text>{scroll 2}Кажется, некоторые детали\nнеисправны.</Text>
+    <Text>{scroll 2}Похоже, одним машинным\nмаслом здесь не обойтись.</Text>
+    <Text>{scroll 2}Вы не можете покинуть\nвагон прямо сейчас.</Text>
+    <Text>{scroll 2}Кабина управления\nв хорошем состоянии.</Text>
+    <Text>{scroll 2}Одной масляной присадки\nдля такого двигателя{clear 0}{scroll 2}\nявно недостаточно.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n“Схема маршрута”</Text>
+    <Text>{scroll 2}{color 1}{string 51}{color 0}\nне подключен.</Text>
+    <Text>{scroll 2}{color 1}{string 52}{color 0} вышел\nиз строя.</Text>
+    <Text>{scroll 2}{color 1}Масляной смеси {color 0}нет,\nбак пуст.</Text>
+    <Text>{scroll 2}Похоже, Михаилу больно\nи он очень страдает.</Text>
+    <Text>{scroll 0}Ты ещё один выживший из\nкоманды спасателей, верно?{clear 86}Я только что встретила\nтвоего товарища, Карлоса.{timed 78}</Text>
+    <Text>{scroll 0}Интересно, как такой девушке\nудалось выжить?{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Эй, я вообще-то не из\nгражданских.{clear 72}\nЯ оперативник ＳＴＡＲＳ{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\nＳＴＡＲＳ..{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}Эй, у вас что здесь\nраненый?{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\nОх, выглядит неважно. {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}“Они идут!”\n“Приготовиться!”{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}Тише.\nТеперь ты в безопасности.{scroll 1}{timed 80}</Text>
+    <Text>{scroll 0}\n“Нет, ближе не подходите...“{clear 91}{clear 7}\n“Держитесь подальше...“{timed 54}</Text>
+    <Text>{scroll 0}Ну что, Джилл, ты решила\nпомочь нам выбраться?{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}Нет.\nМы не можем ей доверять. {scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Почему..? Но сержант,\nнам нужна её помощь!{scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}Мы выдвигаемся в район\nчасовой башни, где{clear 71}должен будет приземлиться\nспасательный вертолёт.{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Это довольно далеко\nот нас...{clear 71}Вряд ли мы сможем\nдобраться туда пешком.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}Наша основная проблема\nв том, что район посадки{clear 70}\nотрезан отсюда пожаром.{timed 64}</Text>
+    <Text>{scroll 0}Такая работа по мне.\nОтличный план, сэр!{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}Ладно народ,\nпошевеливаемся!{scroll 1}{timed 64}</Text>
+    <Text>{scroll 0}\nДжилл, надень это.{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}\nКажется, мы готовы ехать.{clear 53}\nВот, возьми это.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nXорошо. Эм..{clear 44}Николай не сможет\nприсоединиться к нам...{timed 104}</Text>
+    <Text>{scroll 0}\nЯ понимаю...{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nКарлос...{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}\nДа, ты права, Джилл.{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}Николай.. не сможет\nприсоединиться к нам...{clear 96}{clear 19}\nДавай... Вперёд.{timed 64}</Text>
+    <Text>{scroll 0}Особый отряд Департамента\nполиции..?{timed 80}</Text>
+    <Text>{scroll 0}{clear 32}\n“Огонь! Огонь!”{clear 77}{clear 17}\n“Держитесь вместе!”{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}\nВсё будет хорошо.{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Похоже, мы единственные\nвыжившие.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}Мы должны действовать\nсообща.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Наша команда это только\nты, я, да лейтенант Михаил.{clear 80}И всё!\nНо Михаил тяжело ранен.{timed 90}</Text>
+    <Text>{scroll 0}Если мы не будем\nсотрудничать,{clear 49}живыми нам отсюда\nне выбраться!{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}{clear 35}Ладно. Тогда давайте\nобсудим наш план.{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}Как только мы окажемся\nтам и подадим сигнал,{clear 69}прилетит вертолёт и\nвытащит нас отсюда.{scroll 1}{timed 79}</Text>
+    <Text>{scroll 0}Поэтому, наш единственный\nшанс пробиться сквозь него {clear 88}\nна этом трамвае.{timed 49}</Text>
+    <Text>{scroll 0}К счастью, мы так же можем\nиспользовать его{clear 64}\nкак передвижной щит{clear 36}для преодоления наиболее\nсложных участков.{timed 64}</Text>
+    <Text>{scroll 0}Я попробую завести\nтрамвай.{clear 44}\nВперёд!{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}Мне очень жаль Мёрфи, но ты\nне мог ничего сделать.{timed 107}</Text>
+    <Text>{scroll 0}Я попробую завести\nтрамвай...{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\nВыглядит неплохо...{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}\nМихаил!!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Эй, что там творится\nсзади?!{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}{clear 24}\n...Прости.{timed 68}</Text>
+    <Text>{scroll 0}Я чувствую себя\nтаким никчёмным...{scroll 1}{timed 77}</Text>
+    <Text>{scroll 0}Нет... Ты храбро сражался\nи твои раны лучшее{clear 81}\nтому доказательство.{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}Но... Я до сих пор жив.\nА мои люди нет!{scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}Не думай об этом сейчас.\nПросто отдохни...{scroll 1}{timed 112}</Text>
+    <Text>{scroll 0}Я не смог.. спасти\nсвоих людей...{scroll 1}{timed 96}</Text>
+</Strings>

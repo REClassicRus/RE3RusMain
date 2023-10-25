@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{center}INCINERATOR MANUAL</Text>
+    <Text>The incinerator plant is one of\nthe facilities that burns the\ndisposable items which are sent\nfrom the laboratory. The\nincinerator burns the waste\nmaterials that cannot be\ndecomposed at the treatment room.\nIt also supplies electricity to the\nfacility by a thermal power\nelectricity generator.</Text>
+    <Text>Part of the electricity is stored\nin the big battery installed in the\nfacility's underground area. The\nelectricity is used as an auxiliary\npower source.</Text>
+    <Text>The auxiliary power circuit will be\nactivated once the three "auxiliary\ncircuit units" are properly placed\nin their sockets. In case the\ncircuits are not connected\nautomatically, a person can\nconnect them manually to activate\nthe system.</Text>
+</Strings>

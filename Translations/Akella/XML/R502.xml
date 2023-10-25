@@ -1,0 +1,11 @@
+<Strings>
+	<Text>Управление питанием \nсистемы безопасности.{clear 0} \nНаходится в ждущем режиме.{clear 0} Нажать кнопку?\n#</Text>
+	<Text>В систему безопасности\nподано питание.</Text>
+	<Text>Нажать кнопку?\n#</Text>
+	<Text>Здесь есть {color 1}считывающее устройство\n{color 1}</Text>
+	<Text>Закрыто \nмассивной дверью.{clear 0} #|В ней есть узкая щель для \nпластиковых карточек.</Text>
+	<Text>Вам больше не нужна эта \n{color 1}ключ-карта{color 0}.{clear 0} Выкинуть ее?\n#</Text>
+	<Text>В систему безопасности\nподано питание.</Text>
+	<Text>Замок \nоткрылся.</Text>
+	<Text>Под#емник не\nзапустить{clear 0} \nбез {color 1}ключ-карты{color 0}.The elevator won't move\nbecause it is locked{clear 0} \nwith a {color 1}Card Key{color 0}.</Text>
+</Strings>

@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}{cut 15}\nФильтр полностью забит.{clear 0}{scroll 2}Из него вытекает жидкость\nс неприятным запахом.</Text>
+    <Text>{scroll 2}\nЗдесь мне не пройти.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 90}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 99}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 106}</Text>
+</Strings>

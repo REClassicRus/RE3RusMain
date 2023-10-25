@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}1-й перекл.\n{branch 64}Крас.{live}Син.{live}Сброс{live}Выход{live}</Text>
+    <Text>{scroll 2}1-й перекл.\n{branch 64}Крас.{live}Син.{live}Сброс{live}Выход{live}</Text>
+    <Text>{scroll 2}2-й перекл.\n{branch 64}Крас.{live}Син.{live}Сброс{live}Выход{live}</Text>
+    <Text>{scroll 2}3-й перекл.\n{branch 64}Крас.{live}Син.{live}Сброс{live}Выход{live}</Text>
+    <Text>{scroll 2}4-й перекл.\n{branch 64}Крас.{live}Син.{live}Сброс{live}Выход{live}</Text>
+</Strings>

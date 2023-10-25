@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}\nНи черта не понимаю!{scroll 1}{clear 57}{scroll 0}Ещё один подопытный\nи до сих пор жив!{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}Что ты творишь?\nТы совсем спятил?!{clear 71}{scroll 1}{timed 1}</Text>
+    <Text>{scroll 0}Иногда мы легко меняем\nсвою сторону.{clear 95} {clear 18}\n..Как тот предатель!{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Ты о том, кто стрелял\nв тебя?{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\nДа.. Ты его знаешь. {clear 61} {clear 16}Такой седовласый,\nс противной рожей.{clear 86}{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}Как он только посмел\nподстрелить меня..!{clear 83} {clear 13}\nЧёртов.. Иуда!{scroll 1}{timed 58}</Text>
+    <Text>{scroll 0}\nТы говоришь о Николае..?{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 56}</Text>
+    <Text>{scroll 2}\nКолбы и мензурки.</Text>
+    <Text>{scroll 2}Пробирки с разными вирусами\nи другим содержимым.</Text>
+    <Text>{scroll 2}Закрыто на сложный замок.\nЕго невозможно открыть.</Text>
+    <Text>{scroll 2}“Соблюдайте максимальную\nосторожность при работе{clear 0}\nс химикатами.”</Text>
+</Strings>

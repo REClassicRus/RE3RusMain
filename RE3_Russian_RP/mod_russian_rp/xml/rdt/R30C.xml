@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}Музыкальная шкатулка\nс искусным орнаментом.{scroll 2}{clear 0}На ней есть переключатели\nс буквами от А до F.{scroll 2}{clear 0}Xотите включить её?{branch 0}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}Старый часовой механизм\nнеплохо сохранился.</Text>
+    <Text>{scroll 2}{cut 5}Механизм с красивым\nобрамлением.</Text>
+    <Text>{scroll 2}{cut 5}\nШестерёнки вращаются.</Text>
+    <Text>{scroll 2}{cut 5}\nНичего не произошло.</Text>
+</Strings>

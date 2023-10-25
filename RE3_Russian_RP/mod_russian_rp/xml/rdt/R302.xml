@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}Я не могу поверить...\nТы жив!{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Я не знаю, как мы будем\nвыбираться из этого города...{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}О чём ты говоришь..?\nМы у цели!{timed 95}</Text>
+    <Text>{scroll 0}\nТы не понимаешь!{clear 40}Они ни за что не позволят нам\nвернуться отсюда живыми!{scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}Неужели ты думаешь, что мы\nможем рассчитывать на их{clear 60}\n“великий план эвакуации”?!{clear 42}Да это же просто\nклочок бумаги!{timed 76}</Text>
+    <Text>{scroll 0}Как раз сейчас нам\nничего не остаётся,{clear 59}\nкроме как довериться им.{scroll 1}{timed 66}</Text>
+    <Text>{scroll 0}Нет! Если нам суждено\nумереть, то мы сами решим,{clear 67}\nкогда это случится!{scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}\nТак вот значит как?!{clear 40}\nТы решил сдаться!{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\nНет...{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nПросто...{clear 51}\nЯ не знаю что делать!{clear 50}{scroll 1}{timed 10}</Text>
+    <Text>{scroll 2}\nВ камине пусто.</Text>
+</Strings>

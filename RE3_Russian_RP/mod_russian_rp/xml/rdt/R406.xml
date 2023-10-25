@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\n“Горы Арклай”</Text>
+    <Text>{scroll 2}Закрыто на цифровой\nзамок.{clear 0}{scroll 2}Первая цифра?{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Выход{live}</Text>
+    <Text>{scroll 2}Вторая цифра?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Выход{live}</Text>
+    <Text>{scroll 2}Третья цифра?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Выход{live}</Text>
+    <Text>{scroll 2}\nТут ничего нет.</Text>
+    <Text>{scroll 2}Здесь явно что-то\nстояло...</Text>
+</Strings>

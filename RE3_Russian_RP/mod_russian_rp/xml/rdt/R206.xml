@@ -1,0 +1,26 @@
+﻿<Strings>
+    <Text>{scroll 0}Подожди. Я должна\nтебя кое о чём спросить.{scroll 1}{timed 94}</Text>
+    <Text>{scroll 0}Я знаю. Ты хочешь пригласить\nменя на свидание.{clear 78}Всем хорошеньким дамочкам\nнравится мой акцент.{scroll 1}{clear 67}{scroll 0}\nОн сводит их с ума.{scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\nЧто?! Размечтался...{clear 78}\n{clear 16}Скажи, зачем Амбрелла\nпослала сюда вашу команду?{timed 98}</Text>
+    <Text>{scroll 0}Мы здесь, чтобы спасти\nгражданское население.{scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}\nНе лги мне!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}Да весь этот кошмар сейчас\nпроисходит по вине Амбреллы!{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}\nПослушай...{clear 33}Мы всего лишь наёмники,\nисполняющие приказ.{timed 66}</Text>
+    <Text>{scroll 0}Ты думаешь, хозяин объясняет\nсвоим псам, зачем им нужно{clear 77}принести палку, которую\nон кинул?!{timed 71}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Если тебе нужны ответы,\nпоговори с кем-нибудь ещё.{clear 84}\nЯ не заодно с Амбреллой.{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nДоговорим позже.{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nЗнаю, в это трудно поверить,{clear 46}но мы здесь только ради\nспасения гражданских.{timed 56}</Text>
+    <Text>{scroll 0}Если ты мне веришь, то\nпомоги нам.{clear 71}{clear 6}\nПодумай об этом!{timed 52}</Text>
+    <Text>{scroll 0}Мне нужно у тебя\nкое-что спросить.{scroll 1}{timed 53}</Text>
+    <Text>{scroll 0}Зачем Амбрелла послала\nсюда вашу команду?{timed 72}</Text>
+    <Text>{scroll 0}Наше задание ] спасти\nгражданских.{timed 77}</Text>
+    <Text>{scroll 0}\nКакое благородство.{timed 44}</Text>
+    <Text>{scroll 0}Учитывая, что Амбрелла\nпервая, кто стоит{clear 61}за всем этим. Лживые\nмерзавцы!{timed 67}</Text>
+    <Text>{scroll 0}Послушай...{clear 33}Мы всего лишь наёмники,\nисполняющие приказ.{timed 77}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}{clear 19}\nСейчас не до разговоров.{timed 60}</Text>
+    <Text>{scroll 0}Если ты мне веришь, то\nприсоединяйся к нам!{clear 68}\nПодумай об этом!{timed 50}</Text>
+    <Text>{scroll 2}\nНичего необычного.</Text>
+    <Text>{scroll 2}Большое вентиляционное\nотверстие.</Text>
+</Strings>

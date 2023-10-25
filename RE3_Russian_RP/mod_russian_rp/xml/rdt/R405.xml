@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Выберите нужный этаж:{branch 64}1Э{live}В3{live}Открыть{live}Отмена{live}</Text>
+    <Text>{scroll 2}\nДвери не закрываются!</Text>
+    <Text>{scroll 2}\nМне сейчас не до этого!</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\nСтойка для капельницы.</Text>
+    <Text>{scroll 2}“Старайтесь не превышать\nдозировку лекарств.”</Text>
+    <Text>{scroll 2}“Все материалы после\nизучения должны быть{clear 0}\nвозвращены на место.”</Text>
+</Strings>

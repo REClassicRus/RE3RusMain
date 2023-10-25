@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}Статуя девы с чашей\nв руке.{clear 0}\nВ ней лежит {color 1}Янтарь{color 0}.</Text>
+    <Text>{scroll 2}Статуя девы с чашей\nв руке.{clear 0}\nВ ней лежит {color 1}Обсидиан{color 0}.</Text>
+    <Text>{scroll 2}Статуя девы с чашей\nв руке.{clear 0}\nВ ней лежит {color 1}Xрусталь{color 0}.</Text>
+    <Text>{scroll 2}\n“Богиня прошлого”{clear 0}\nПод картиной есть чаша.</Text>
+    <Text>{scroll 2}\n“Богиня настоящего”{clear 0}\nПод картиной есть чаша.</Text>
+    <Text>{scroll 2}\n“Богиня будущего”{clear 0}\nПод картиной есть чаша.</Text>
+    <Text>{scroll 2}Положить в чашу\n{color 1}Янтарь{color 0}?{branch 0}</Text>
+    <Text>{scroll 2}Положить в чашу\n{color 1}Обсидиан{color 0}?{branch 0}</Text>
+    <Text>{scroll 2}Положить в чашу\n{color 1}Xрусталь{color 0}?{branch 0}</Text>
+    <Text>{scroll 2}\nВ чаше лежит {color 1}Обсидиан{color 0}.</Text>
+    <Text>{scroll 2}\nВ чаше лежит {color 1}Xрусталь{color 0}.</Text>
+    <Text>{scroll 2}Резервный колокол\nчасовой башни.{clear 0}Чтобы его сдвинуть, нужна\nневероятная сила.</Text>
+    <Text>{scroll 2}Вероятно, его оставили здесь\nдля защиты от вторжения.</Text>
+    <Text>{scroll 2}\nНаёмник Амбреллы.{clear 0}Вероятно, он погиб, пытаясь\nзащитить чью-то дочь.</Text>
+    <Text>{scroll 2}{scroll 2}\n{scroll 2}\nТеперь тут пусто.</Text>
+    <Text>{scroll 2}\n{scroll 2}\nТеперь тут пусто.</Text>
+    <Text>{scroll 2}\nВ чаше лежит {color 1}Янтарь{color 0}.</Text>
+    <Text>{scroll 2}\nТеперь тут пусто.</Text>
+</Strings>

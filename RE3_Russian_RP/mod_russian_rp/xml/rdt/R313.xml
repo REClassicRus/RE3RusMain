@@ -1,0 +1,19 @@
+﻿<Strings>
+    <Text>{scroll 2}Тут разбросаны\nстаринные книги.</Text>
+    <Text>{scroll 2}\nНичего необычного.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\nКарлос!{timed 40}</Text>
+    <Text>{scroll 0}\n{timed 30}</Text>
+    <Text>{scroll 0}Что ж, нам обоим\nудалось уцелеть.{clear 65} {timed 4}</Text>
+    <Text>{scroll 0}Надеюсь, мы и дальше будем\nпомогать друг другу.{clear 75} {timed 5}</Text>
+    <Text>{scroll 0}\nДа, это было непросто.{clear 53}Но сейчас мы можем\nпередохнуть...{clear 68} {timed 2}</Text>
+    <Text>{scroll 0}\nНет!{clear 26}Мы остались с тобой одни, и\nпокой нам пока только снится.{timed 88}</Text>
+    <Text>{scroll 0}\nУ меня для тебя подарок.{timed 41}</Text>
+</Strings>

@@ -1,0 +1,26 @@
+<Strings>
+	<Text>Выход</Text>
+	<Text>Создать</Text>
+	<Text>Загрузить</Text>
+	<Text>Сохранить</Text>
+	<Text>Не загружать</Text>
+	<Text>Не сохранять</Text>
+	<Text>Перезаписать?</Text>
+	<Text>Да</Text>
+	<Text>Нет</Text>
+    <Text>Склад</Text>
+    <Text>Аллея</Text>
+    <Text>Холл</Text>
+    <Text>Тёмная комната</Text>
+    <Text>Торговый район</Text>
+    <Text>Часовня</Text>
+    <Text>Гостинная</Text>
+    <Text>Парк</Text>
+    <Text>Госпиталь</Text>
+    <Text>Кладбище</Text>
+    <Text>Комната отдыха</Text>
+    <Text>Мониторная</Text>
+    <Text>Парковка</Text>
+    <Text>Машинный зал</Text>
+    <Text>ОТЛАДКА</Text>
+</Strings>

@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}Я должен помочь ей,\nкак можно скорее... </Text>
+    <Text>{scroll 0}\n1 октября. Ночь.{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Я проснулась от шума\nпроливного дождя.{scroll 1}{timed 85}</Text>
+    <Text>{scroll 0}Я не могу поверить, что\nдо сих пор жива...{scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}Похоже мы впервые поменялись\nролями за всё это время...{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\nНе переживай, Джилл.{clear 44}\nВ этой часовне безопасно.{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}Я ведь заражена вирусом,\nне так ли?{timed 93}</Text>
+    <Text>{scroll 0}\nЭй, не волнуйся...{scroll 1}{timed 97}</Text>
+    <Text>{scroll 0}\nЯ в порядке.{clear 46} {clear 6}Я совсем не чувствую\nболи...{clear 59}{clear 18}Но именно это меня\nи тревожит.{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Если я уже совсем ничего не\nчувствую, то что это значит?{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Не отчаивайся, Джилл.\nЯ позабочусь о тебе.{clear 80} {scroll 1}{timed 15}</Text>
+    <Text>{scroll 0}Что бы ни случилось, не дай\nэтому вирусу одолеть тебя! {clear 91} {scroll 1}{timed 2}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}\nЕсли я превращусь в зомби...{clear 76} {clear 5}\nПусть твоя рука не дрогнет..!{clear 52}Пообещай, что ты\nприкончишь меня...{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}\nКарлос?{timed 35}</Text>
+</Strings>

@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 2}Рубильник, контролирующий\nэнергоснабжение.{clear 0}Он расположен рядом с\nустройством для культивации.{clear 0}Xотите включить питание?{branch 0}</Text>
+    <Text>{scroll 2}\nXимический преобразователь.{clear 0}Сюда нужно поместить\n{color 1}Универс. основу{color 0} вакцины.</Text>
+    <Text>{scroll 2}\nПохоже, питание отключено.</Text>
+    <Text>{scroll 2}Активировать\nпреобразователь? {clear 0}\n{branch 81}I{live}II{live}III{live}Вниз{live}Выход{live}</Text>
+    <Text>{scroll 2}Активировать\nпреобразователь? {clear 0}\n{branch 80}I{live}II{live}III{live}Вниз{live}Выход{live}</Text>
+    <Text>{scroll 2}Активировать\nпреобразователь? {clear 0}\n{branch 64}А{live}В{live}Вверх{live}Выход{live}</Text>
+    <Text>{scroll 2}В обитаемых капсулах\nдвое неизвестных существ.</Text>
+    <Text>{scroll 2}\nВысокоточный микроскоп.</Text>
+    <Text>{scroll 2}Видимо, здесь работали с\nкакими-то реактивами.</Text>
+    <Text>{scroll 2}Посевы клеточных культур\nнеизвестного происхождения.</Text>
+    <Text>{scroll 2}Активировать\nпреобразователь? {clear 0}\n{branch 82}I{live}II{live}III{live}Вниз{live}Выход{live}</Text>
+    <Text>{scroll 2}Активировать\nпреобразователь? {clear 0}\n{branch 65}А{live}В{live}Вверх{live}Выход{live}</Text>
+    <Text>{scroll 2}\nЗдесь пусто.</Text>
+</Strings>

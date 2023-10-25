@@ -1,0 +1,20 @@
+<Strings>
+	<Text>В камине виден\nсвет.</Text>
+	<Text>\n</Text>
+	<Text>Здесь лежат различные\nинструменты.</Text>
+	<Text>Инвентарь для \nуборки.</Text>
+	<Text>\nПустые бутылки из-под спиртного.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.{clear 0}б# \n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.{clear 0}{clear 0}# \n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>Дрова, которые \nможно поджечь.{clear 0} Из камина дует \nветер.</Text>
+	<Text>\n                  #.</Text>
+	<Text>Вам больше не нужна эта \n{color 1}зажигалка.{color 0}{clear 0} Выкинуть ее?\n#</Text>
+</Strings>

@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nБольше ничего нет.</Text>
+    <Text>{scroll 2}Кто-то уже порылся\nв этом ящике.</Text>
+    <Text>{scroll 2}\nСломано и не открывается.</Text>
+</Strings>

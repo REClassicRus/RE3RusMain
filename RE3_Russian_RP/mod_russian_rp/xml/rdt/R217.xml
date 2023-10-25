@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь есть шестиугольное\nотверстие.</Text>
+    <Text>{scroll 2}Из отверстия торчит сло-\nманная шестигранная{clear 0}рукоятка. Я не смогу\nповернуть её вручную.</Text>
+    <Text>{scroll 2}\nВнутри опасно!</Text>
+    <Text>{scroll 2}\nОбычная бензоколонка.</Text>
+    <Text>{scroll 0}\nКарлос!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 37}{scroll 0}Расслабься...\nЯ ведь ещё не помер.{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nТак ты в порядке..?{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 40}{scroll 0}\nЯ в норме.{scroll 1}{clear 53}{scroll 0}{scroll 1}{clear 25}{scroll 0}А быть героем труднее,\nчем кажется...{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}Ау! У меня в ушах звенит!\nПохоже, нас с тобой оглушило...{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}Ладно, мне ещё надо раздобыть\nкое-что из снаряжения.{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}Там, куда мы отправимся,\nможет вообще ничего не быть.{scroll 1}{timed 81}</Text>
+</Strings>

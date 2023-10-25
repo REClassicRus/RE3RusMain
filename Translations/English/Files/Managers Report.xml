@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{center}MANAGER'S REPORT</Text>
+    <Text>Before you begin your new\nposition, please allow me to give\nyou some advice. Some of the\nmedicines in the storage room are\nunstable and their quality will\ndeteriorate under changing\ntemperatures or humidity.\nTherefore, you must remember to\nkeep the temperature the same in\nthe storage room at all times.</Text>
+    <Text>You should personally check it\neveryday. Although the computer\nchecks it around the clock, a\nmachine is not perfect. Try and\nremember that a machine is no\nmore than a tool to be used by\npeople.</Text>
+    <Text>You must check all personnel\ncoming and going to the storage\nroom. Many dangerous drugs are\nstored there, if any of them are\nmissing you have a serious problem\non your hands. The door to the\nstorage room is always locked, but\nwhen you let personnel into it,\nyou will need to have them hand\nin their documents.</Text>
+    <Text>And above all else, remember that\nif you find anything suspicious,\ncontact your boss immediately.</Text>
+    <Text>If you forget the password to lock\nthe door, try and remember it is a\nword that everyone is familiar\nwith. Don't forget that once a new\nproduct is shipped, the password\nwill be updated again. You can\nalways enter the password from\nthe terminal of the PC for\nadministration. </Text>
+</Strings>

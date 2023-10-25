@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{center}MARVIN'S REPORT</Text>
+    <Text>{center}"Report"\nSeptember 24th\nThere are reports of a theft in\nthe municipal building before dawn.\nA jewel-decorated clock at the\nmain gate was damaged. Two of the\ntwelve gems that are installed on\nthe face of the clock are missing.</Text>
+    <Text>Due to lack of available\nofficers at this time, I have no\nchoice but to suspend the research\nof this case.\n\n{RIGHT}Signed, \n{RIGHT}Marvin Branagh </Text>
+    <Text>{center}"Report"\nSeptember 26th\nBased upon an autopsy report of\na 42 year old restaurant owner, I\nhave discovered that he has one\nof the missing gems.\nHe apparently took shelter in the\npolice department at about 10 AM,\nwhere he was shot to death within\n10 minutes of having developed the\nsymptoms.</Text>
+    <Text>Since the city is currently under\nmartial law, we are forced to\nsuspend this case. At this time,\nwe'll keep the gem as evidence.\n\n{RIGHT}Signed, \n{RIGHT} Branagh </Text>
+</Strings>

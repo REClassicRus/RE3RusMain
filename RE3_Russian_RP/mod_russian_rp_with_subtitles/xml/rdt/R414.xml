@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}Оборудование настроено\nна автоприём.</Text>
+    <Text>{scroll 2}\nКарта Раккун-Сити.{clear 0}На ней отмечены полицейский\nучасток и госпиталь.</Text>
+    <Text>{scroll 2}Эта часть комнаты\nпохожа на арсенал.</Text>
+    <Text>{scroll 0}\n                  {clear 49}\n                  {clear 72}\n                  {clear 39}\n                  {scroll 1}{timed 79}</Text>
+</Strings>

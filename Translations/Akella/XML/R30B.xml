@@ -1,0 +1,12 @@
+<Strings>
+	<Text>##Использовать свет.</Text>
+	<Text>Здесь все рассыпается\nот старости.</Text>
+	<Text>\nПол влажный.</Text>
+	<Text>Арматура для освещения\nциферблата часов.</Text>
+	<Text>Похоже, она\nзакорочена.</Text>
+	<Text>Повернуть выключатель?\n#</Text>
+	<Text>#)Там есть замочная \nскважина.{clear 0} Использовать \n{color 1}#а{color 0}? #</Text>
+	<Text>#)Там есть замочная \nскважина.</Text>
+	<Text>\nЭто выключатель света.</Text>
+	<Text>Вам больше не нужен этот\nключ.{clear 0} Выбросить его?\n# You no longer need this\nkey.{clear 0} Will you discard it?\n#</Text>
+</Strings>

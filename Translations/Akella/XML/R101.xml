@@ -1,0 +1,20 @@
+<Strings>
+	<Text>Погрузчик для перемещения\nразличных грузов.</Text>
+	<Text>За этим окном\nжутковатая тишина.</Text>
+	<Text>Здесь сложен\nразличный хлам.</Text>
+	<Text>Кнопка тревоги\nуже нажата.</Text>
+	<Text>\nЗдесь больше ничего нет.</Text>
+	<Text>Этот контейнер закрыт \nизнутри.</Text>
+	<Text>\nЗдесь нет ничего полезного.</Text>
+	<Text>#.{clear 0}(###F2#F8#F #Fс#Fе#Fн#Fт#Fя#Fб#Fр#Fя#F.####F #F #G#(#\n###FД#Fе#Fн#Fь#F.#F.#F.#F #F #F #F #G#(#\n#G#\n#.</Text>
+	<Text>#FМ#Fо#Fн#Fс#Fт#Fр#Fы#F #Fз#Fа#Fх#Fв#Fа#Fт#Fи#Fл#Fи#G#(#\n###Fг#Fо#Fр#Fо#Fд#F.#G#(#\n#.</Text>
+	<Text>\n#FК#Fа#Fк#Fи#Fм#F-#Fт#Fо#F #Fч#Fу#Fд#Fо#Fм#G#(#\n#.</Text>
+	<Text>#.{clear 0})##\n#FМ#Fн#Fе#F #Fу#Fд#Fа#Fл#Fо#Fс#Fь#F #Fу#Fц#Fе#Fл#Fе#Fт#Fь#F.#F.#F.#G#(#\n#.</Text>
+	<Text>\n#.</Text>
+	<Text>\n#.{clear 0}G# \n#.</Text>
+	<Text>#.</Text>
+	<Text>#.</Text>
+	<Text>\n#.</Text>
+	<Text>#.{clear 0}{clear 0}# \n#.</Text>
+	<Text>\n#.{clear 0}V# \n#.</Text>
+</Strings>

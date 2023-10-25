@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 0}{branch 160}Использовать свет{live}Использовать кабель{live}</Text>
+    <Text>{scroll 2}Ветхое ограждение\nосыпается от старости.</Text>
+    <Text>{scroll 2}\nПол залит водой.</Text>
+    <Text>{scroll 2}Прожектор, освещающий\nциферблат часовой башни.</Text>
+    <Text>{scroll 2}Должно быть, короткое\nзамыкание.</Text>
+    <Text>{scroll 2}\nВыключатель освещения.{clear 0}Вы нажмёте на кнопку?\n{branch 0}</Text>
+    <Text>{scroll 2}{cut 6}Декоративная медная пластина\nс замочной скважиной.{clear 0}Xотите использовать\n{color 1}{string 119}{color 0}? {branch 0}</Text>
+    <Text>{scroll 2}{cut 6}Декоративная медная пластина\nс замочной скважиной.</Text>
+    <Text>{scroll 2}\nВыключатель освещения.</Text>
+    <Text>{scroll 2}Этот ключ вам больше\nне нужен.{clear 0}Выбросить его?\n{branch 0}</Text>
+</Strings>

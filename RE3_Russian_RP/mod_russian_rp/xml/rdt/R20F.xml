@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 2}Пламя слишком сильное.\nЯ не смогу войти.</Text>
+    <Text>{scroll 2}Кругом разбросаны материалы\nо странных происшествиях.</Text>
+    <Text>{scroll 2}Из окна виден узкий\nпроулок.</Text>
+    <Text>{scroll 0}\nГде... Где я?{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\nРасслабься, ты цел!{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}\nКак скажешь...{clear 39}Но чувствую, голова у меня\nвот-вот взорвётся...{clear 97}{timed 21}</Text>
+    <Text>{scroll 0}\nЛадно, меня зовут Карлос.{clear 58}Приятно познакомиться,\nледи.{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Джилл, команда Альфа.\nОтряд ＳＴＡＲＳ R.Р.D.{timed 114}</Text>
+    <Text>{scroll 0}\nＳＴＡＲＳ.. Понятно. {clear 55}Ну, а я член Спецотряда\nпо Борьбе с Биоугрозами.{clear 93}Нас прислала корпорация\nАмбрелла.{timed 59}</Text>
+    <Text>{scroll 0}\n...Вас прислала Амбрелла?{scroll 1}{timed 44}</Text>
+    <Text>{scroll 0}Эй, не надо на меня так\nсмотреть...{clear 55}\nЧто я такого сказал?{clear 37} {clear 6}\nУ тебя какие-то проблемы?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nО нет!{scroll 1}{timed 25}</Text>
+    <Text>{scroll 0}\nЭто он!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}{branch 160}Выпрыгнуть из окна{live}Спрятаться сзади{live}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 34}</Text>
+    <Text>{scroll 0}\nНу же!{scroll 1}{timed 34}</Text>
+    <Text>{scroll 0}Ау..!\nВот это номер!{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\nТогда придётся потерпеть.{clear 39}Эта тварь хочет меня убить!\nНам надо убираться отсюда!{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Просто чтоб ты знала,\nя не из тех, кто получает{clear 55}удовольствие от боли.\nЯсно?{timed 44}</Text>
+    <Text>{scroll 0}\nЭй!{scroll 1}{timed 24}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 27}</Text>
+    <Text>{scroll 0}\nА на кого работаешь ты?{scroll 1}{timed 41}</Text>
+</Strings>

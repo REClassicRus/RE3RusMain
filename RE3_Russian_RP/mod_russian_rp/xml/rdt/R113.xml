@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Закрыто на простой\nзамок.</Text>
+    <Text>{scroll 2}Закрыто на простой\nзамок.{clear 0}Использовать {color 1}Отмычку{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}\nЗакрыто на цифровой замок.{clear 0}{scroll 2}Первая цифра?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Выход{live}</Text>
+    <Text>{scroll 2}Вторая цифра?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Выход{live}</Text>
+    <Text>{scroll 2}Третья цифра?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Выход{live}</Text>
+    <Text>{scroll 2}Четвёртая цифра?\n{branch 112}0{live}1{live}2{live}3{live}4{live}5{live}Выход{live}</Text>
+    <Text>{scroll 2}\nНичего нет.{timed 80}</Text>
+</Strings>

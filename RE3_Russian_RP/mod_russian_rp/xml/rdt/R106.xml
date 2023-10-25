@@ -1,0 +1,15 @@
+﻿<Strings>
+    <Text>{scroll 2}\nДверь заблокирована.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Проход полностью\nзаблокирован.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n“Бар Джек”</Text>
+    <Text>{scroll 2}Вокруг разбросаны\nместные газеты.</Text>
+    <Text>{scroll 2}\n“Грандиозная распродажа!”</Text>
+    <Text>{scroll 2}\nДверные жалюзи опущены.</Text>
+    <Text>{scroll 2}Решётчатые ворота.\nПохоже, их не открыть.</Text>
+    <Text>{scroll 2}Закрыто на надёжный\nзамок.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

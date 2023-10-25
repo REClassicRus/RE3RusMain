@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>{scroll 2}\nНеработающие часы.{clear 0}{scroll 2}Двух драгоценных камней\nне хватает на циферблате.</Text>
+    <Text>{scroll 2}\nНеработающие часы.{clear 0}{scroll 2}На циферблате не хватает\nодного драгоценного камня.</Text>
+    <Text>{scroll 2}Видимо, для запуска\nмеханизма этого недостаточно.</Text>
+    <Text>{scroll 2}\n </Text>
+    <Text>{scroll 2}“Часы работы: с 9:00\nдо 17:00. По окончании{clear 0}{scroll 2}рабочего дня, ворота\nзакрываются автоматически.”</Text>
+    <Text>{scroll 2}Все драгоценные камни\nустановлены и, похоже,{clear 0}{scroll 2}\nтеперь часы работают.</Text>
+    <Text>{scroll 2}\n“ЭКСКЛЮЗИВ НЕДЕЛИ!{clear 0}{scroll 2}Инцидент в Арклайских\nгорах раскрыт!”</Text>
+    <Text>{scroll 2}\nВнутри пусто.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 104}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 116}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 122}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 82}{scroll 0}                  \n                  {scroll 1}{timed 114}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 212}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 90}</Text>
+</Strings>

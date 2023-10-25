@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}\nМихаил!{scroll 1}{clear 34}{scroll 0}Тебе что, так не терпится\nумереть?!{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}Мои люди...\nИх уничтожили эти твари!{scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}Я не могу перестать бороться\nтолько потому что я ранен!{scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}Но разве ты не понимаешь,\nчто эти монстры{clear 63}\nтакие же жертвы Амбреллы..?!{scroll 1}{timed 69}</Text>
+    <Text>{scroll 0}Ты упрекаешь меня в том,\nчто я вымещаю на них злобу?! {clear 94}По-моему, это тебе\nкое-что не ясно...{scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}Мы не настолько тесно\nсвязаны с компанией..!{scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\nЯ знаю.{clear 42}И именно поэтому, сейчас я\nпытаюсь сотрудничать с вами.{scroll 1}{timed 105}</Text>
+    <Text>{scroll 0}Ни у кого из нас нет\nни малейших оснований{clear 68}нести ответственность\nза весь этот кошмар!{timed 78}</Text>
+    <Text>{scroll 0}{clear 3}\nНе подходи ближе!{timed 47}</Text>
+    <Text>{scroll 2}На его теле сразу несколько\nсмертельных ран.</Text>
+    <Text>{scroll 2}\nСломанные часы.</Text>
+    <Text>{scroll 2}Дорогу разделяет мощная\nбаррикада.</Text>
+</Strings>

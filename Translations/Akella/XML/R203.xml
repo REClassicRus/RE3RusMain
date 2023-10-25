@@ -1,0 +1,8 @@
+<Strings>
+	<Text>Лифт не \nработает.{clear 0} К нему не подведено\nпитание.</Text>
+	<Text>Лифт не\nработает.{clear 0} К нему не подведено\nпитание.</Text>
+	<Text>Здесь есть отсек, куда \nможно вставить {color 1}батарею{color 0}.</Text>
+	<Text>\n</Text>
+	<Text>Здесь записано\nрасписание будущего{clear 0} \nстроительства.</Text>
+	<Text>На его лице застыло выражение\nагонии и боли.His expression shows\ninsane agony and pain.</Text>
+</Strings>

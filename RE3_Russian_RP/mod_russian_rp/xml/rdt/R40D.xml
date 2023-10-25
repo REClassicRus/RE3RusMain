@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}“Конфигурация фонтана\nменяется в зависимости от{clear 0}\nкомбинации шестерёнок.”{clear 0}{clear 0}{timed 1}</Text>
+    <Text>{scroll 2}“Пожалуйста, бросайте мусор\nв мусорную корзину.”</Text>
+    <Text>{scroll 2}Другая часть парка, видимо,\nзакрыта на реконструкцию.</Text>
+    <Text>{scroll 2}Панель управления\nфонтаном.{clear 0}Вы откроете крышку?\n{branch 0}</Text>
+    <Text>{scroll 2}\n{branch 101}1{live}2{live}3{live}4{live}5{live}S{live}</Text>
+    <Text>{scroll 2}\nНичего не произошло.</Text>
+    <Text>{scroll 2}СБРОС ВОДЫ ПРОИЗВОДИТСЯ\nСОГЛАСНО СXЕМЕ.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

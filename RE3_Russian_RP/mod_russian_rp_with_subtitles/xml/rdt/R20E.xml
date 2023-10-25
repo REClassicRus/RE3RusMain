@@ -1,0 +1,17 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь есть шестиугольное\nотверстие.</Text>
+    <Text>{scroll 2}Из отверстия торчит сло-\nманная шестигранная{clear 0}рукоятка. Я не смогу\nповернуть её вручную.</Text>
+    <Text>{scroll 2}\nВнутри опасно!</Text>
+    <Text>{scroll 2}\n   я@@я@йТЛЮтП   </Text>
+    <Text>{scroll 2}Из отверстия торчит сло-\nманная шестигранная{clear 0}рукоятка. Я не смогу\nповернуть её вручную.</Text>
+    <Text>{scroll 2}\nДверные жалюзи опущены.</Text>
+    <Text>{scroll 2}\nОбычная бензоколонка.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 216}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 130}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 81}</Text>
+    <Text>{scroll 2}Этот {color 1}Разводной ключ{color 0}\nвам больше не нужен.{clear 0}Выбросить его?\n{branch 0}</Text>
+</Strings>

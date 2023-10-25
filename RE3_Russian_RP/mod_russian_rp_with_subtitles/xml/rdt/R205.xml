@@ -1,0 +1,31 @@
+﻿<Strings>
+    <Text>\n“Приложи свои знания здесь.”{clear 0}Тут есть полое углубление,\nкуда можно вставить что-либо.</Text>
+    <Text>\n“Приложи свои знания здесь.”</Text>
+    <Text>\n“Будущее в наших руках.”{clear 0}Тут есть полое углубление,\nкуда можно вставить что-либо.</Text>
+    <Text>\n“Будущее в наших руках.”</Text>
+    <Text>“Знания, устремлённые в\nбудущее всегда укажут{clear 0}\nнам верный путь.”{clear 0}“Майкл Уоррен,\nмэр Раккун-Сити.”</Text>
+    <Text>\nДорога забаррикадирована.</Text>
+    <Text>Ворота плотно заперты,\nих невозможно открыть.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 88}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 213}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 187}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 68}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 144}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 151}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 109}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 123}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n                  {clear 81}\n                  {scroll 1}{timed 117}</Text>
+    <Text>\nВам сейчас не до этого!</Text>
+</Strings>

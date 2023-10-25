@@ -1,0 +1,6 @@
+[MOD]
+Name = Resident Evil 3: Nemesis - Русская версия
+Title = Resident Evil 3: Nemesis - Русская версия
+UseRdtXml = 1
+ForceEng = 1
+ConfigAltFont = 1

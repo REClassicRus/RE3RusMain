@@ -1,0 +1,9 @@
+<Strings>
+	<Text>Закрыто на простой\nзамок.</Text>
+	<Text>Закрыто на простой\nзамок.{clear 0} Применить {color 1}отмычку{color 0}?\n#</Text>
+	<Text>Закрыто на \nкодовый замок.{clear 0} ##Первая цифра?\n##0</Text>
+	<Text>Вторая цифра?\n##0</Text>
+	<Text>Третья цифра?\n##0</Text>
+	<Text>Четвертая цифра?\n##0</Text>
+	<Text>\nБольше цифр нет.\nNothing is left.</Text>
+</Strings>

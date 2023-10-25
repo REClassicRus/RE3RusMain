@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 2}Вентиль слишком тугой.\nВручную его не открыть.</Text>
+    <Text>{scroll 2}Закрыто на электронный\nзамок.</Text>
+    <Text>{scroll 2}\nСчитыватель {color 1}Ключ-карт{color 0}.</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 0}Внимание: Подготовка к\nзапуску цеха переработки. {clear 125}Просьба немедленно\nпокинуть помещение.{scroll 1}{timed 73}</Text>
+</Strings>

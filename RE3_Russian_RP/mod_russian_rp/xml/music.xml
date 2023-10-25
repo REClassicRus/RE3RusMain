@@ -1,0 +1,9 @@
+﻿<Strings>
+    <Text>{scroll 2}Перемещайте переключатели\nвверх или вниз{clear 0}Перекл. A? \n{branch 64}Вв.{live}Вн.{live}След.{live}Вых.{live}</Text>
+    <Text>{scroll 2}Перекл. A? \n{branch 64}Вв.{live}Вн.{live}След.{live}Вых.{live}</Text>
+    <Text>{scroll 2}Перекл. B?{branch 80}Вв.{live}Вн.{live}След.{live}Наз.{live}Вых.{live}</Text>
+    <Text>{scroll 2}Перекл. C?{branch 80}Вв.{live}Вн.{live}След.{live}Наз.{live}Вых.{live}</Text>
+    <Text>{scroll 2}Перекл. D?{branch 80}Вв.{live}Вн.{live}След.{live}Наз.{live}Вых.{live}</Text>
+    <Text>{scroll 2}Перекл. E?{branch 80}Вв.{live}Вн.{live}След.{live}Наз.{live}Вых.{live}</Text>
+    <Text>{scroll 2}Перекл. F?{branch 80}Вв.{live}Вн.{live}Воспр.{live}Наз.{live}Вых.{live}</Text>
+</Strings>

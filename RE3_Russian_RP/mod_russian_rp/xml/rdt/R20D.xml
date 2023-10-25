@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 0}\nЯ посмотрю что там...{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nНиколай!!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nДжилл!{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}Эй...\nЗомби что-то всполошились.{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nЗнаю.{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}Я слышу их.\nЧто происходит? {scroll 1}{timed 79}</Text>
+    <Text>{scroll 0}\nДжилл!{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}\nВ чём дело?{scroll 1}{timed 34}</Text>
+    <Text>{scroll 0}\nОни идут!{scroll 1}{timed 29}</Text>
+    <Text>{scroll 0}Похоже, они нас учуяли.\nОни знают, что мы здесь!{scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}\nЭй, успокойся.{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Не возражаешь, если на этот\nраз я поиграю в героя?{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nЧто ты задумал?!{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}\nКарлос!{scroll 1}{timed 36}</Text>
+    <Text>{scroll 2}Термошкаф для хранения\nмасла.</Text>
+    <Text>{scroll 2}Термошкаф для хранения\nмасла с электронным замком.{clear 0}Вы попытаетесь\nоткрыть его?{branch 0}</Text>
+    <Text>{scroll 2}Термошкаф для хранения\nмасла.{clear 0}Внутри нет ничего\nполезного.</Text>
+    <Text>{scroll 2}\nТовары для мойки машин.</Text>
+    <Text>{scroll 2}\nНеопрятный прилавок.</Text>
+    <Text>{scroll 2}Полка с лакокрасочными\nматериалами.</Text>
+    <Text>{scroll 2}\nНичего особенного.</Text>
+    <Text>{scroll 2}Здесь разлито машинное\nмасло.</Text>
+    <Text>{scroll 2}Карлос наблюдает\nза улицей.</Text>
+    <Text>{scroll 0}\nПолучайте!{scroll 1}{timed 32}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 35}</Text>
+</Strings>

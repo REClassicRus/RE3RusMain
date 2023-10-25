@@ -1,0 +1,19 @@
+﻿<Strings>
+    <Text>{scroll 2}Тут разбросаны\nстаринные книги.</Text>
+    <Text>{scroll 2}\nНичего необычного.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 0}\n{timed 40}</Text>
+    <Text>{scroll 0}\n{timed 30}</Text>
+    <Text>{scroll 0}\n{timed 69}</Text>
+    <Text>{scroll 0}\n{timed 81}</Text>
+    <Text>{scroll 0}\n{timed 126}</Text>
+    <Text>{scroll 0}\n{timed 114}</Text>
+    <Text>{scroll 0}\n{timed 39}</Text>
+</Strings>

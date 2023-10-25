@@ -1,0 +1,9 @@
+<Strings>
+	<Text>Вентиль слишком \nтугой.</Text>
+	<Text>Закрыто на электронный\nзамок.</Text>
+	<Text>\nЗдесь есть {color 1}считывающее  устройство{color 0}.</Text>
+	<Text>\n</Text>
+	<Text>\n</Text>
+	<Text>\n{clear 0} ##</Text>
+	<Text>#.</Text>
+</Strings>

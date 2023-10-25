@@ -1,0 +1,196 @@
+﻿<Strings>
+    <Text></Text>
+    <Text>Нож</Text>
+    <Text>Пист. наёмника</Text>
+    <Text>Пистолет</Text>
+    <Text>Дробовик</Text>
+    <Text>Магнум</Text>
+    <Text>Гранатомёт</Text>
+    <Text>Гранатомётr</Text>
+    <Text>Гранатомёт</Text>
+    <Text>Гранатомёт</Text>
+    <Text>Ракетница</Text>
+    <Text>Пулемёт</Text>
+    <Text>Миномёт</Text>
+    <Text>EAGLE 6.0</Text>
+    <Text>Автомат</Text>
+    <Text>Автомат</Text>
+    <Text>Western спец.</Text>
+    <Text>SIGPRO E</Text>
+    <Text>M92F E</Text>
+    <Text>Benelli M3S E</Text>
+    <Text>Миномёт E</Text>
+    <Text>Пист. патроны</Text>
+    <Text>Патр. “Магнум”</Text>
+    <Text>Патр. дробовика</Text>
+    <Text>Гранаты</Text>
+    <Text>Зажиг. гранаты</Text>
+    <Text>Кисл. гранаты</Text>
+    <Text>Замор. гранаты</Text>
+    <Text>Мины</Text>
+    <Text>Патр. автомата</Text>
+    <Text>Пист. патроны</Text>
+    <Text>Разрывн. дробь</Text>
+    <Text>Мед. спрей</Text>
+    <Text>Зелёная трава</Text>
+    <Text>Синяя трава</Text>
+    <Text>Красная трава</Text>
+    <Text>Смесь трав</Text>
+    <Text>Смесь трав</Text>
+    <Text>Смесь трав</Text>
+    <Text>Смесь трав</Text>
+    <Text>Смесь трав</Text>
+    <Text>Смесь трав</Text>
+    <Text>Аптечка</Text>
+    <Text>Рукоятка</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Карта ＳＴＡＲＳ</Text>
+    <Text>BOTU</Text>
+    <Text>Батарея</Text>
+    <Text>Пожарный крюк</Text>
+    <Text>Силовой кабель</Text>
+    <Text>Предохранитель</Text>
+    <Text>BOTU</Text>
+    <Text>Масл. присадка</Text>
+    <Text>Бумажник</Text>
+    <Text>Карта ＳＴＡＲＳ</Text>
+    <Text>Моторное масло</Text>
+    <Text>Масляная смесь</Text>
+    <Text>BOTU</Text>
+    <Text>Разводной ключ</Text>
+    <Text>Железная труба</Text>
+    <Text>BOTU</Text>
+    <Text>Пожарн. шланг</Text>
+    <Text>Диктофон</Text>
+    <Text>Бензин</Text>
+    <Text>Зажигалка</Text>
+    <Text>Зажигалка</Text>
+    <Text>Зелёный камень</Text>
+    <Text>Синий камень</Text>
+    <Text>Янтарь</Text>
+    <Text>Обсидиан</Text>
+    <Text>Хрусталь</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Золот. шестерня</Text>
+    <Text>Сереб. шестерня</Text>
+    <Text>Шестер. Хроноса</Text>
+    <Text>Бронзов. книга</Text>
+    <Text>Бронзов. компас</Text>
+    <Text>Питател. среда</Text>
+    <Text>Основа вакцины</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Вакцина</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Универс. основа</Text>
+    <Text>EAGLE,*части*A</Text>
+    <Text>EAGLE,*части*B</Text>
+    <Text>M37, части A</Text>
+    <Text>M37, части B</Text>
+    <Text>BOTU</Text>
+    <Text>Ожерелье Хрон.</Text>
+    <Text>Ржавая*рукоятка</Text>
+    <Text>Ключ-карта</Text>
+    <Text>Порох A</Text>
+    <Text>Порох B</Text>
+    <Text>Порох C</Text>
+    <Text>Порох AA</Text>
+    <Text>Порох BB</Text>
+    <Text>Порох AC</Text>
+    <Text>Порох BC</Text>
+    <Text>Порох CC</Text>
+    <Text>Порох AAA</Text>
+    <Text>Порох AAB</Text>
+    <Text>Порох BBA</Text>
+    <Text>Порох BBB</Text>
+    <Text>Порох CCC</Text>
+    <Text>Беск. патроны</Text>
+    <Text>Образец воды</Text>
+    <Text>Системный диск</Text>
+    <Text>Dummy Key</Text>
+    <Text>Отмычка</Text>
+    <Text>Ключ склада</Text>
+    <Text>Ключ лазарета</Text>
+    <Text>Ключ с эмблемой</Text>
+    <Text>BOTU</Text>
+    <Text>Ключ башни</Text>
+    <Text>Ключ башни</Text>
+    <Text>Ключ Хроноса</Text>
+    <Text>BOTU</Text>
+    <Text>Ключ парка</Text>
+    <Text>Ключ парка</Text>
+    <Text>Ключ парка</Text>
+    <Text>Ключ комплекса</Text>
+    <Text>Ключ комплекса</Text>
+    <Text>Ключ бутика</Text>
+    <Text>Печатная лента</Text>
+    <Text>Зарядн. устр-во</Text>
+    <Text>Инструкции А</Text>
+    <Text>Инструкции B</Text>
+    <Text>Инструкции A</Text>
+    <Text>Дневник Дарио</Text>
+    <Text>Дневник наёмника</Text>
+    <Text>Бизнес-факс</Text>
+    <Text>Доклад Марвина</Text>
+    <Text>Дневник Дэвида</Text>
+    <Text>Путеводитель</Text>
+    <Text>Дневник журналиста</Text>
+    <Text>План операции</Text>
+    <Text>Блокнот наёмника</Text>
+    <Text>Худ. открытка</Text>
+    <Text>Доклад наблюдателя</Text>
+    <Text>Письменный приказ</Text>
+    <Text>Дневник главврача</Text>
+    <Text>Дневник управляющ.</Text>
+    <Text>Руков. по безопасн.</Text>
+    <Text>Записка механика</Text>
+    <Text>Факс от Кендо</Text>
+    <Text>Доклад менеджера</Text>
+    <Text>Мед. инструкция</Text>
+    <Text>Факс из Управления</Text>
+    <Text>Инструкц. крематория</Text>
+    <Text>Фото A</Text>
+    <Text>Фото B</Text>
+    <Text>Фото C</Text>
+    <Text>Фото E</Text>
+    <Text>Фото D</Text>
+    <Text>Откр. “Часов. башня”</Text>
+    <Text>Инструкции B</Text>
+    <Text>Секретное фото</Text>
+    <Text>Дневник Джилл</Text>
+    <Text>Карта Окраины</Text>
+    <Text>Карта Центра города</Text>
+    <Text>Карта Часовой башни</Text>
+    <Text>Карта Парка</Text>
+    <Text>Карта Завода</Text>
+    <Text>Карта Полиц. участка</Text>
+    <Text>Карта Госпиталя</Text>
+    <Text>Пусто</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Ключ. сл. входа</Text>
+    <Text>BOTU</Text>
+    <Text>Ключ ＳＴＡＲＳ</Text>
+    <Text>Пуст. зажигалка</Text>
+    <Text>Сапфир</Text>
+    <Text>Изумруд</Text>
+    <Text>Шест. рукоятка</Text>
+    <Text>BOTU</Text>
+    <Text>Ключ кладбища</Text>
+    <Text>BOTU</Text>
+    <Text>BOTU</Text>
+    <Text>Книга мудрости</Text>
+    <Text>Компас будущ.</Text>
+    <Text>Квадр. рукоятка</Text>
+    <Text>Гранённый ключ</Text>
+    <Text>Полый ключ</Text>
+    <Text>Ключ гл. ворот</Text>
+    <Text>Ключ зад. ворот</Text>
+</Strings>

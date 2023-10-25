@@ -1,0 +1,23 @@
+﻿<Strings>
+    <Text>{scroll 2}В шкафу стоят бутылки\nс бурбоном.</Text>
+    <Text>{scroll 2}Старый пинбольный\nавтомат.</Text>
+    <Text>{scroll 2}\nТаксофон.</Text>
+    <Text>{scroll 2}Едва начатая еда и\nнапитки.</Text>
+    <Text>{scroll 2}В мойке полно стаканов\nи грязной посуды.</Text>
+    <Text>{scroll 0}\nПошёл прочь!{scroll 1}{timed 33}</Text>
+    <Text>{scroll 0}\nБрэд...{clear 39}Неужели никто не может\nостановить всё это?!{timed 96}</Text>
+    <Text>{scroll 0}Никто не учил нас, как\nдействовать в такой ситуации!{clear 69}{clear 3}Что по-твоему нам\nоставалось делать?!{timed 50}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}Послушай...\nОн пришёл за нами.{clear 70}\nМы оба умрём!{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}\nО чём ты говоришь? {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}\nУвидишь...{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Он преследует бойцов\nＳＴＡＲＳ{clear 51}\nНам не спастись! {scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}\nБрэд, держись!{clear 48}Неужели никто не может\nостановить всё это?!{scroll 1}{timed 93}</Text>
+    <Text>{scroll 0}Я не знал, что ты\nещё жива, Джилл...{scroll 1}{timed 63}</Text>
+    <Text>{scroll 0}Полиция была не готова\nк такой ситуации.{clear 78}\nЧто они могли сделать?{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 50}</Text>
+</Strings>

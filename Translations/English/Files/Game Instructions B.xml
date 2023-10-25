@@ -1,0 +1,10 @@
+﻿<Strings>
+    <Text>{center}GAME INSTRUCTIONS B</Text>
+    <Text>(AMMUNITION CREATION SYSTEM)\nTo create various ammunition,\nyou need to use the "Reloading\nTool" and "Gun Powder."</Text>
+    <Text>(RELOADING TOOL)\nThis is a necessary item if you\nwant to create different types\nof ammunition.\nBy combining the Gun Powder and\nReloading Tool, various types\nof ammunition will be created.</Text>
+    <Text>(GUN POWDER)\nMix materials to create various\ntypes of ammunition. There are\nthree type of basic Gun\nPowders: A, B and C. Please note\nthat Gun Powder C is created\nby mixing A and B types.</Text>
+    <Text>(HOW TO MIX GUN POWDERS)\nYou can create various kinds of\nbullets by mixing the different\nGun Powders. There are 13\ndifferent kinds of Gun Powders in\nall.</Text>
+    <Text>(EXAMPLE OF GUN POWDERS)\nA:      Hand Gun Bullets\nB:      Shotgun Shells\nC:      Grenade Rounds\nA+C:    Grenade Flame Rounds\nB+C:    Grenade Acid Rounds\nC+C:    Grenade Freeze Rounds\nC+C+C:  Magnum Bullets</Text>
+    <Text>(MIXING GUN POWDER WITH\nGRENADE ROUNDS)\nIf you combine a certain type of\nGun Powder with Grenade Rounds,\nspecial types of Grenade Rounds\nwill be created.</Text>
+    <Text>(MIXING LEVEL IMPROVEMENT)\nIf you repeatedly create the\nsame kind of ammunition, your\nskill will be improved, and\nyou will be able to create\nmore powerful ammunition.</Text>
+</Strings>

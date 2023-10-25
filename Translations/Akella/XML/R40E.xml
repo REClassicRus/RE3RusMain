@@ -1,0 +1,12 @@
+<Strings>
+	<Text>«Форма фонтана\nизменяется в зависимости {clear 0} \nот комбинации шестеренок.»{clear 0} {clear 0}</Text>
+	<Text>«Пожалуйста, бросайте\nмусор в урны.»</Text>
+	<Text>Дальше, похоже, \nстроительство еще {clear 0} \nне закончено.</Text>
+	<Text>Панель управления\nфонтаном.{clear 0} Открыть крышку?\n#</Text>
+	<Text>\n#О1</Text>
+	<Text>\nНичего не произошло.\nNothing happened.</Text>
+	<Text>\n</Text>
+	<Text>\n</Text>
+	<Text>\n</Text>
+	<Text>\n</Text>
+</Strings>

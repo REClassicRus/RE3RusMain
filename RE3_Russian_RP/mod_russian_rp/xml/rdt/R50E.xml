@@ -1,0 +1,30 @@
+﻿<Strings>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 0}\nДжилл!{timed 33}</Text>
+    <Text>{scroll 0}\nПоспеши!{timed 41}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}Джилл, смотри!\nВертолёт летит!{timed 92}</Text>
+    <Text>{scroll 0}\nДа!{timed 39}</Text>
+    <Text>{scroll 0}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\nВсё кончено, Карлос.{timed 49}</Text>
+    <Text>{scroll 0}О чём ты говоришь?\nТы что, не слышишь?!{timed 75}</Text>
+    <Text>{scroll 0}\nЭто другой вертолёт!{clear 52}И он прилетел, чтобы\nспасти тебя!{timed 51}</Text>
+    <Text>{scroll 0}Но кто это? Зачем вообще\nкому-то искать меня?{timed 110}</Text>
+    <Text>{scroll 0}\nЭто не важно!{clear 36}Нам просто нужно быть\nздесь, когда он приземлится!{timed 65}</Text>
+    <Text>{scroll 0}\n</Text>
+    <Text>{scroll 0}\n</Text>
+</Strings>

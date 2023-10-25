@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>Его грудная клетка сломана\nи вдавлена внутрь.</Text>
+    <Text>\nЭто вентиляционная шахта.{clear 0}Выглядит достаточно\nширокой для человека.{clear 0}Xотите уйти через шахту\nвентиляции?{branch 0}</Text>
+    <Text>\nМорозильная камера.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 30}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 204}</Text>
+</Strings>

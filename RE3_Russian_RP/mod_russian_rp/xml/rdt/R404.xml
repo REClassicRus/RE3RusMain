@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}Его шея сзади\nпробита насквозь.</Text>
+    <Text>{scroll 2}Кто-то здесь уже\nпровёл обыск.</Text>
+    <Text>{scroll 2}\nНедопитый кофе.</Text>
+    <Text>{scroll 2}\n“3 октября, в 18.00”{clear 0}“Мы устраиваем\nвечеринку в баре Джек”</Text>
+    <Text>{scroll 2}Замок с распознавателем\nголоса.{clear 0}Вы нажмёте на кнопку\nмикрофона?{branch 0}</Text>
+    <Text>{scroll 2}Пожалуйста, начинайте\nговорить.</Text>
+    <Text>{scroll 2}Выберите нужный этаж:{branch 64}4Э{live}В3{live}Открыть{live}Отмена{live}</Text>
+    <Text>{scroll 2}\nДвери не закрываются!</Text>
+    <Text>{scroll 2}\nМне сейчас не до этого!</Text>
+    <Text>{scroll 2}\n</Text>
+</Strings>

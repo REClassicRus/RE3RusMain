@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 2}Закрыто на простой\nзамок.</Text>
+    <Text>{scroll 2}Закрыто на простой\nзамок.{clear 0}Использовать {color 1}Отмычку{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}Утечка взрывоопасного\nгаза.</Text>
+    <Text>{scroll 2}Горящая керосиновая\nлампа.</Text>
+    <Text>{scroll 2}Записи о поставках различных\nпродуктов питания.</Text>
+    <Text>{scroll 2}Крышка люка, на вид\nтяжёлая.{clear 0}Тут есть петля, которую\nможно чем-нибудь подцепить.</Text>
+    <Text>{scroll 2}Похоже, телефонная\nсвязь отключена.</Text>
+    <Text>{scroll 2}\nНичего необычного.</Text>
+    <Text>{scroll 2}Кажется, это переключатель\nводостока.</Text>
+    <Text>{scroll 2}Кажется, это переключатель\nводостока.{clear 0}Нажать на кнопку?\n{branch 0}</Text>
+    <Text>{scroll 2}  \n {clear 0}\n </Text>
+    <Text>{scroll 2}Внизу видна поверхность\nводы.</Text>
+    <Text>{scroll 0}{clear 37}\nКто здесь?!{timed 34}</Text>
+    <Text>{scroll 0}Спокойно, леди.\nЯ не зомби.{scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}Меня зовут Карлос.\nМладший сержант{clear 64}Спецотряда Амбреллы\nпо Борьбе с Биоугрозами.{timed 77}</Text>
+    <Text>{scroll 0}\nА как твоё имя?{scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}\nДжилл.{clear 34}\nПостой, я не ослышалась,{clear 39}ты сказал, что служишь\nв армии Амбреллы?!{clear 62} {timed 6}</Text>
+    <Text>{scroll 0}Да, мы прилетели издалека,\nчтобы спасти ваших жителей.{scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}Но миссия не задалась с\nмомента нашего приземления.{scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}Не может быть!\nКак он нашёл меня?{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}{branch 160}Спуститься в подвал{live}Спрятаться за кухней{live}</Text>
+    <Text>{scroll 0}\nСюда!{scroll 1}{timed 38}</Text>
+    <Text>{scroll 0}\nТы что, спятила?!{clear 41}Ты чуть не поджарила\nнас обоих!!{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\nСюда!{scroll 1}{timed 28}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 74}</Text>
+    <Text>{scroll 0}{scroll 1}{timed 231}</Text>
+</Strings>

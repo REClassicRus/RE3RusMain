@@ -1,0 +1,12 @@
+﻿<Strings>
+    <Text>{scroll 2}На доске расписан\nеженедельный график.</Text>
+    <Text>{scroll 2}Стол хаотично загромождён\nжурналами и книгами.</Text>
+    <Text>{scroll 0}\nКарлос!{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}Джилл, слушай очень\nвнимательно...{scroll 1}{timed 77}</Text>
+    <Text>{scroll 0}Они собираются нанести\nракетный удар по городу{clear 91}уже с наступлением\nрассвета.{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}Взрыв будет настолько мощным,\nчто уничтожит здесь всё!{scroll 1}{timed 101}</Text>
+    <Text>{scroll 0}\nТы уверен в этом?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nАбсолютно!{clear 36}Я сам слышал это от одного\nиз наблюдателей.{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Они готовы зайти так далеко,\nчтобы замести свои следы..?!{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}Давай, нам нужно торопиться,\nу нас мало времени.{scroll 1}{timed 87}</Text>
+</Strings>

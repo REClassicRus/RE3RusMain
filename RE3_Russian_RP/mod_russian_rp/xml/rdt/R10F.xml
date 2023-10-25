@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}Здесь висит костюм,\nкоторый должен вам подойти.{clear 0}{scroll 2}Xотите сменить одежду?{branch 0}</Text>
+    <Text>{scroll 2}Здесь висит костюм,\nкоторый должен вам подойти.{clear 0}{scroll 2}Xотите сменить одежду?{branch 0}</Text>
+    <Text>{scroll 2}{snd 22}\nДверь закрыта.</Text>
+</Strings>

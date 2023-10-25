@@ -1,0 +1,62 @@
+﻿<Strings>
+    <Text>{scroll 2}Кажется, некоторые детали\nнеисправны.</Text>
+    <Text>{scroll 2}Похоже, одним машинным\nмаслом здесь не обойтись.</Text>
+    <Text>{scroll 2}Вы не можете покинуть\nвагон прямо сейчас.</Text>
+    <Text>{scroll 2}Кабина управления\nв хорошем состоянии.</Text>
+    <Text>{scroll 2}Одной масляной присадки\nдля такого двигателя{clear 0}{scroll 2}\nявно недостаточно.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n“Схема маршрута”</Text>
+    <Text>{scroll 2}{color 1}{string 51}{color 0}\nне подключен.</Text>
+    <Text>{scroll 2}{color 1}{string 52}{color 0} вышел\nиз строя.</Text>
+    <Text>{scroll 2}{color 1}Масляной смеси {color 0}нет,\nбак пуст.</Text>
+    <Text>{scroll 2}Похоже, Михаилу больно\nи он очень страдает.</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 196}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 160}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 43}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 118}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 192}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 103}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 136}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 196}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 150}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 110}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 76}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 63}{scroll 0}                  \n                  {scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 198}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 84}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 34}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 214}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{clear 169}{scroll 0}                  \n                  {scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 45}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 79}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 50}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 192}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 127}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 148}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 175}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 145}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 180}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 128}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 46}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 106}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 132}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 211}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 115}</Text>
+</Strings>

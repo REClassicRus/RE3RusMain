@@ -1,0 +1,62 @@
+<Strings>
+	<Text>Некоторые части, похоже,\nне в порядке.</Text>
+	<Text>Одного машинного масла\nдля этой машины{clear 0} ##\nнедостаточно.</Text>
+	<Text>Вы не можете сейчас\nсойти с поезда.</Text>
+	<Text>Ухоженная комната\nуправления.</Text>
+	<Text>Одной присадки к маслу \nдля этой машины{clear 0} ##\nнедостаточно.</Text>
+	<Text>\n</Text>
+	<Text>\n«Путеводитель по станции»</Text>
+	<Text>{color 1}#W{color 0} \nотсоединен.</Text>
+	<Text>\n  {color 1}#X{color 0} сломан.</Text>
+	<Text>{color 1}#'{color 0} - \nиспользовано.</Text>
+	<Text>Михаилу очень больно и \nон страдает. Mikhail appears to be in \npain and suffering.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.{clear 0}Y#                   \n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.{clear 0}ц#                   \n                  #.</Text>
+	<Text>\n#.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n#.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+	<Text>\n                  #.</Text>
+</Strings>

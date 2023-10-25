@@ -1,0 +1,8 @@
+<Strings>
+	<Text>\n«Горы Арклай»</Text>
+	<Text>Закрыто на \nкодовый замок.{clear 0} ##Первая цифра?\n##0</Text>
+	<Text>Вторая цифра?\n##0</Text>
+	<Text>Третья цифра?\n##0</Text>
+	<Text>\nВсе.</Text>
+	<Text>Похоже, здесь что-то \nбыло...Something seems to have \nbeen placed here...</Text>
+</Strings>

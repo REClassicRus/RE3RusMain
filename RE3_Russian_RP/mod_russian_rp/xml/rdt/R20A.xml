@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}Аварийный источник\nпитания.{clear 0}{scroll 2}Xотите включить его?\n{branch 0}</Text>
+    <Text>{scroll 2}\nАварийный генератор.{clear 0}{scroll 2}Вы нажмёте на кнопку?{branch 0}</Text>
+    <Text>{scroll 2}Переключатель лестничного\nподъёмника.{clear 0}{scroll 2}Вероятно, он не работает\nиз-за нехватки энергии.</Text>
+    <Text>{scroll 2}Переключатель лестничного\nподъёмника.{clear 0}{scroll 2}Xотите опустить лестницу?\n{branch 0}</Text>
+    <Text>{scroll 2}\nПитание возобновлено.</Text>
+</Strings>

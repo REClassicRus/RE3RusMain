@@ -1,0 +1,25 @@
+﻿<Strings>
+    <Text>{scroll 2}\nБольше ничего нет.</Text>
+    <Text>{scroll 2}\nЭто алтарь.</Text>
+    <Text>{scroll 0}\nМы едва успели...{clear 50} {clear 14}\nКак самочувствие?{scroll 1}{timed 48}</Text>
+    <Text>{scroll 0}\nЯ в порядке.{clear 39} {clear 8}Расскажи лучше о своих\nподвигах.{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Я только что дрался с\nтем монстром...{clear 67} {clear 16}\nЕсть и плохие новости.{clear 58}\nНиколай умудрился выжить.{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}\nНо я думала, он мёртв...{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Этот тип не понимает\nслова “смерть”!{scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}\nЧто ему нужно?{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Сам не знаю. Я знаю только,\nчто теперь он наш враг.{scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}Прости, Джилл, но мне ещё\nнужно кое о чём позаботиться...{clear 70} {clear 2}Обещаю, мы встретимся\nпозже.{clear 56} {clear 10}\n..Не беспокойся.{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\nЭй, ты в порядке?{scroll 1}{timed 65}</Text>
+    <Text>{scroll 0}\nДа, кажется...{clear 64} {clear 4}\nЧто происходит?{scroll 1}{timed 47}</Text>
+    <Text>{scroll 0}\nБесполезно!{clear 44}\nЭто чудовище не сдаётся!{timed 66}</Text>
+    <Text>{scroll 0}\nЧто?!{clear 28}Я думала, мы убили\nэту тварь?!{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\nНет. Он выжидает тебя!{scroll 1}{timed 81}</Text>
+    <Text>{scroll 0}\nОн играет с нами...{clear 63}Карлос...\nНеужели его не остановить?{scroll 1}{timed 95}</Text>
+    <Text>{scroll 0}\nНет.. Я так не думаю.{scroll 1}{timed 71}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}Прости, Джилл, но я ещё должен\nкое о чём позаботиться...{clear 80}\nДа, и плохие новости...{clear 72} {clear 6}\nНиколай умудрился выжить.{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nНиколай?! Ты уверен?{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}Да. Не знаю почему, но я\nзнаю, что теперь он наш враг.{clear 124} {clear 12}Запомни:\nЕму нельзя доверять!{scroll 1}{timed 59}</Text>
+</Strings>

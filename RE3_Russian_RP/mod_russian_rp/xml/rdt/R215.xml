@@ -1,0 +1,14 @@
+﻿<Strings>
+    <Text>{scroll 0}{branch 160}Выпрыгнуть из окна{live}Нажать на стоп-кран{live}{timed 250}</Text>
+    <Text>{scroll 2}Вы не можете покинуть\nвагон прямо сейчас.</Text>
+    <Text>{scroll 0}\nДжилл! {clear 33}Прыгайте с трамвая!\nСейчас же!{scroll 1}{timed 49}</Text>
+    <Text>{scroll 0}Михаил, подожди!\nНе делай этого!{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}Уходите отсюда!\nЖиво!{scroll 1}{timed 51}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 35}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}Нет!\nТормоза отказали!{scroll 1}{timed 59}</Text>
+    <Text>{scroll 0}\nНаверняка это он.{scroll 1}{timed 39}</Text>
+    <Text>{scroll 0}\nБесполезно!{scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 86}</Text>
+    <Text>{scroll 0}\nМихаил!{scroll 1}{timed 35}</Text>
+</Strings>

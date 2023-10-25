@@ -1,0 +1,20 @@
+﻿<Strings>
+    <Text>{scroll 2}</Text>
+    <Text>{scroll 2}\nДверь надёжно закрыта.</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 37}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 102}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 115}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 216}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 82}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 120}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 176}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 168}</Text>
+    <Text>{scroll 0}\n                  {scroll 1}{timed 168}</Text>
+    <Text>{scroll 2}Большой холодильник.\nСудя по следам от когтей,{clear 0}что-то пыталось выбраться\nиз него.</Text>
+    <Text>{scroll 2}Думаю, это часть\nэлектрооборудования.{clear 0}\nНичего необычного.</Text>
+    <Text>{scroll 2}Внутренняя часть стены\nоткрыта.{clear 0}Должно быть, кто-то\nработал с кабелем.</Text>
+    <Text>{scroll 2}\n“Идёт утилизация.”</Text>
+    <Text>{scroll 2}“Вставьте {color 1}Системный диск{color 0},\nчтобы открыть дверь.”</Text>
+    <Text>{scroll 0}\n                  {clear 162}\n                  {scroll 1}{timed 170}</Text>
+</Strings>

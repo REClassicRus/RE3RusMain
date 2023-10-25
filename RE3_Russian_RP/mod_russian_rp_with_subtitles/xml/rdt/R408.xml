@@ -1,0 +1,13 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{scroll 1}{timed 92}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 61}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 55}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 162}</Text>
+    <Text>{scroll 2}Неизвестные существа\nпогружены в формалин.</Text>
+    <Text>{scroll 2}\nИнформация о вирусе.</Text>
+    <Text>{scroll 2}Какие-то медицинские\nматериалы.</Text>
+    <Text>{scroll 2}Картонная коробка\nс реактивами.</Text>
+    <Text>{scroll 2}Различная документация\nпо вирусам и вакцинам.</Text>
+    <Text>{scroll 2}Снаружи темно и ничего\nне видно.</Text>
+    <Text>{scroll 0}\n{scroll 2}{timed 39}</Text>
+</Strings>

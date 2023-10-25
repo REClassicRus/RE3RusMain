@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{center}GAME INSTRUCTIONS A</Text>
+    <Text>We hope to improve your\nchances to survive!\n\n(SHOOTING OBJECTS)\nYou may get different reactions\nfrom shooting objects, such as\noil drums and bombs.\n* Press the AIM (All) button\nto aim directly at these objects.</Text>
+    <Text>(QUICK TURN)\nYou can perform quick 180\ndegrees turns.\n* Press the RUN button while\nretreating.</Text>
+    <Text>(EMERGENCY ESCAPE)\nWhen you're trapped by enemies,\nyou can push them away to\nescape.\n* Press the Directional buttons,\nCONFIRM, CANCEL, RUN, AIM (All),\nAIM (Enemies), and CHANGE TARGET\nbuttons rapidly.\n</Text>
+    <Text>(EMERGENCY DODGING)\nJust before an enemy attacks,\nyou can perform a dodge move to\nevade it!\n* Press the AIM (All) and AIMr\n(Enemies) buttons.\n* Press the CONFIRM button while\naiming.</Text>
+    <Text>(GETTING ON/OFF AN OBJECT)\nYou can get on or off certain\nobjects that appear in the game.\n* Press the CONFIRM button while\nyou are moving forward to the\nedge of an object that you wish\nto get on or off.</Text>
+    <Text>(MAP)\nPress the MAP button to\nview the map.\n* You can zoom in or out of the\nmap by pressing the CONFIRM\nbutton.\n* While the map is zoomed in,\nuse the Directional buttons to\nmove the screen.\n* Press the OPTION button to\nswitch between maps.</Text>
+    <Text>(LIVE SELECTION)\nAt certain points in the game,\nthe screen fades into black and\nwhite. At these points, you will be\nprompted to choose between two\ndifferent options.\n* Use the Directional buttons\nto move between the options and\nuse the CONFIRM button to make\nyour decision.</Text>
+    <Text>(EVENT CANCEL)\nIt is possible to skip certain\nscenes.\n* Press the MAP button to\nskip these scenes. </Text>
+</Strings>

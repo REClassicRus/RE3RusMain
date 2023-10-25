@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Колокол часовой башни.\nЯ могу его сдвинуть.</Text>
+    <Text>{scroll 2}Тело товарища. Похоже, он\nсражался до последнего вздоха,{clear 0}пытаясь выполнить своё\nзадание.</Text>
+</Strings>

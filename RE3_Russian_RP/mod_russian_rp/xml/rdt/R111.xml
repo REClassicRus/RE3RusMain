@@ -1,0 +1,7 @@
+﻿<Strings>
+    <Text>{scroll 2}\n“Статуя парящей богини”</Text>
+    <Text>{scroll 2}Это терминал управления\nсистемой безопасности.{clear 0}{scroll 2}Чтобы им воспользоваться,\nмне нужна {color 1}Карта ＳＴＡＲＳ{color 0}</Text>
+    <Text>{scroll 2}\nДвери заколочены.</Text>
+    <Text>{scroll 2}Использовать {color 1}Карту ＳＴＡＲＳ{color 0}{branch 0}</Text>
+    <Text>{scroll 2}Открывать двери сейчас\nслишком опасно.</Text>
+</Strings>

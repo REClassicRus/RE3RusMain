@@ -1,0 +1,8 @@
+﻿<Strings>
+    <Text>{scroll 2}\nОкна заколочены.</Text>
+    <Text>{scroll 2}\n</Text>
+    <Text>{scroll 2}Вентиляционная шахта.\nВнутри темно.</Text>
+    <Text>{scroll 2}\nТут что-то написано:{clear 0}{scroll 2}“Пожалуйста, соблюдайте\nтишину во время совещаний!”</Text>
+    <Text>{scroll 2}\nНичего особенного.</Text>
+    <Text>{scroll 2}Дверь крепко\nзабаррикадирована.</Text>
+</Strings>

@@ -1,0 +1,8 @@
+<Strings>
+	<Text>Он был \nзастрелен.</Text>
+	<Text>«Посторонним вход\nзапрещен.»</Text>
+	<Text>\nОн что-то держит.</Text>
+	<Text>#|#:Это задние ворота\nРаккун-парка.{clear 0} \nЗакрыто.</Text>
+	<Text>Вам больше не нужен\nэтот ключ.{clear 0} Выкинуть его?\n#</Text>
+	<Text>Вы использовали \n{color 1}#ж{color 0}.You've used the \n{color 1}#ж{color 0}.</Text>
+</Strings>

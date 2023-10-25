@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nНичего интересного.</Text>
+    <Text>{scroll 2}“ПОСТОРОННИМ\nВXОД ВОСПРЕЩЁН.”{clear 0}\n“Только для персонала.”</Text>
+    <Text>{scroll 2}\nОна мертва...</Text>
+</Strings>

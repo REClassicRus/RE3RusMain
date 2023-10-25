@@ -1,0 +1,28 @@
+﻿<Strings>
+    <Text>{scroll 2}Закрыто на простой\nзамок.</Text>
+    <Text>{scroll 2}Закрыто на простой\nзамок.{clear 0}Использовать {color 1}Отмычку{color 0}?\n{branch 0}</Text>
+    <Text>{scroll 2}Утечка взрывоопасного\nгаза.</Text>
+    <Text>{scroll 2}Горящая керосиновая\nлампа.</Text>
+    <Text>{scroll 2}Записи о поставках различных\nпродуктов питания.</Text>
+    <Text>{scroll 2}Крышка люка, на вид\nтяжёлая.{clear 0}Тут есть петля, которую\nможно чем-нибудь подцепить.</Text>
+    <Text>{scroll 2}Похоже, телефонная\nсвязь отключена.</Text>
+    <Text>{scroll 2}\nНичего необычного.</Text>
+    <Text>{scroll 2}Кажется, это переключатель\nводостока.</Text>
+    <Text>{scroll 2}Кажется, это переключатель\nводостока.{clear 0}Нажать на кнопку?\n{branch 0}</Text>
+    <Text>{scroll 2}  \n {clear 0}\n </Text>
+    <Text>{scroll 2}Внизу видна поверхность\nводы.</Text>
+    <Text>{scroll 0}                  \n                  {clear 36}                  \n                  {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 72}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 134}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \n                  {clear 38}                  \n                  {scroll 1}{timed 96}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 100}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 67}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
+    <Text>{scroll 0}{branch 160}Спуститься в подвал{live}Спрятаться за кухней{live}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 36}</Text>
+    <Text>{scroll 0}                  \n                  {clear 38}                  \n                  {scroll 1}{timed 54}</Text>
+    <Text>{scroll 0}                  \n                  {scroll 1}{timed 26}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 70}</Text>
+    <Text>{scroll 0}                  {scroll 1}{timed 220}</Text>
+</Strings>

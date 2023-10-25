@@ -1,0 +1,5 @@
+<Strings>
+	<Text>\nЭто пожарный гидрант.{clear 0} A {color 1}Пожарный шланг{color 0} прикреплен \nболтами.</Text>
+	<Text>\nЭто пожарный гидрант.</Text>
+	<Text>Вам больше не нужна эта\n{color 1}ручка{color 0}.{clear 0} Выкинуть ее?\n#</Text>
+</Strings>

@@ -1,0 +1,5 @@
+﻿<Strings>
+    <Text>{scroll 2}\nЭто пожарный гидрант.{clear 0}{color 1}Пожарный шланг{color 0} закреплён\nболтами.</Text>
+    <Text>{scroll 2}\nПожарный гидрант.</Text>
+    <Text>{scroll 2}Этот {color 1}Разводной ключ{color 0} \nвам больше не нужен.{clear 0}Выбросить его?\n{branch 0}{timed 64}</Text>
+</Strings>

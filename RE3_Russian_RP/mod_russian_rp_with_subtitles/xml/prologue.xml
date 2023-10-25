@@ -1,0 +1,6 @@
+﻿<Strings>
+    <Text>{scroll 0}\n{clear 34}\n{clear 84}\n{clear 84}\n{timed 82}</Text>
+    <Text>{scroll 0}\n{clear 45}\n{clear 93}\n{timed 90}</Text>
+    <Text>{scroll 0}\n{clear 66}\n{clear 105}\n{clear 54}\n{clear 96}\n{clear 108}\n{clear 85}\n{timed 117}</Text>
+    <Text>{scroll 0}\n{clear 55}{clear 108}\n{timed 108}</Text>
+</Strings>

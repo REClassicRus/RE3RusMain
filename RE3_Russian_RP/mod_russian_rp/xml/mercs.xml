@@ -1,0 +1,11 @@
+﻿<Strings>
+    <Text>{scroll 0}    Купить этот предмет?\n{branch 1}</Text>
+    <Text>{scroll 0}    Автомат с бесконечными\n    боеприпасами для RE3.</Text>
+    <Text>{scroll 0}    Пулемёт с бесконечными\n    боеприпасами для RE3.</Text>
+    <Text>{scroll 0}    Ракетница с бесконечными\n    боеприпасами для RE3.</Text>
+    <Text>{scroll 0}    Бесконечные боеприпасы\n    для всего оружия в RE3.</Text>
+    <Text>{scroll 0}  </Text>
+    <Text>{scroll 0}    Вам это недоступно.</Text>
+    <Text>{scroll 0}    ПРОДАНО</Text>
+    <Text>{scroll 0} \n   </Text>
+</Strings>

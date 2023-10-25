@@ -1,0 +1,4 @@
+﻿<Strings>
+    <Text>{scroll 2}Это Брэд Викерс, член\nкоманды Альфа ＳＴＡＲＳ{scroll 2}{clear 0}\nЕго лицо обезображено.</Text>
+    <Text>{scroll 0}{branch 160}Сражаться с монстром{live}Войти в полицейский участок{live}</Text>
+</Strings>
