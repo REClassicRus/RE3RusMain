@@ -2,7 +2,7 @@
     <Text>{scroll 2}\nРешётка крепко задраена.</Text>
     <Text>{scroll 2}А здесь соблюдали\nпорядок...</Text>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 2}“Ваш гид по медицинскому\nстрахованию.”</Text>
-    <Text>{scroll 0}Похоже на взрывное\nустройство с таймером.{scroll 1}{timed 90}</Text>
-    <Text>{scroll 2}\nОтсюда пора уносить ноги.</Text>
+    <Text>{scroll 2}“Ваш гид по медицинскому\nстрахованию”.</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 108}</Text>
+    <Text>{scroll 2}\nОтсюда пора уносить ноги!</Text>
 </Strings>

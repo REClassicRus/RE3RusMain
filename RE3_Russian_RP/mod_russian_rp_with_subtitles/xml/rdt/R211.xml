@@ -9,7 +9,7 @@
     <Text>{scroll 2}\nНичего необычного.</Text>
     <Text>{scroll 2}Кажется, это переключатель\nводостока.</Text>
     <Text>{scroll 2}Кажется, это переключатель\nводостока.{clear 0}Нажать на кнопку?\n{branch 0}</Text>
-    <Text>{scroll 2}  \n {clear 0}\n </Text>
+    <Text>{scroll 2}\n{clear 0}\n</Text>
     <Text>{scroll 2}Внизу видна поверхность\nводы.</Text>
     <Text>{scroll 0}                  \n                  {clear 36}                  \n                  {scroll 1}{timed 31}</Text>
     <Text>{scroll 0}                  \n                  {scroll 1}{timed 72}</Text>

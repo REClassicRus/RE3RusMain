@@ -3,6 +3,6 @@
     <Text>{scroll 2}\nШлагбаум опущен.</Text>
     <Text>{scroll 2}\nНичего полезного.</Text>
     <Text>{scroll 2}\nПитание отключено.</Text>
-    <Text>{scroll 2}Здесь заряжается\nаккумулятор.{scroll 1}{timed 36}</Text>
+    <Text>{scroll 2}\n{scroll 1}{timed 36}</Text>
     <Text>{scroll 0}{branch 160}Забраться наверх{live}Спрыгнуть вниз{live}</Text>
 </Strings>

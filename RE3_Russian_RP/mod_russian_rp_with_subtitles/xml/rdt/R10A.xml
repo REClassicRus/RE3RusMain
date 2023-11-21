@@ -1,5 +1,5 @@
 ﻿<Strings>
     <Text>{scroll 2}\nИнформация о новинках.</Text>
     <Text>{scroll 2}Столп воды бьёт из\nповреждённого гидранта.</Text>
-    <Text>{scroll 2}                  \nThe hydrant is broken.</Text>
+    <Text>{scroll 2}\n{timed 85}</Text>
 </Strings>

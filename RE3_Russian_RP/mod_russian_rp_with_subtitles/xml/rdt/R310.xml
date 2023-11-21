@@ -1,5 +1,5 @@
 ﻿<Strings>
-    <Text>{scroll 2}Я должен помочь ей,\nкак можно скорее... </Text>
+    <Text>{scroll 2}Я должен помочь ей,\nкак можно скорее...</Text>
     <Text>{scroll 0}                  \n                  {scroll 1}{timed 93}</Text>
     <Text>{scroll 0}                  \n                  {scroll 1}{timed 91}</Text>
     <Text>{scroll 0}                  \n                  {scroll 1}{timed 106}</Text>

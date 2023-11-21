@@ -8,7 +8,7 @@
     <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 0}\n      @-@-@       {timed 72}</Text>
+    <Text>{scroll 0}\n{timed 72}</Text>
     <Text>{scroll 0}\n{timed 91}</Text>
     <Text>{scroll 0}\n{timed 30}</Text>
     <Text>{scroll 0}\n{timed 81}</Text>
