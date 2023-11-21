@@ -1,4 +1,4 @@
 ﻿<Strings>
-    <Text>{scroll 0}{branch 160}@аЫ@гЁ@дЗж{live}@@ь@@ёж{live}</Text>
-    <Text>{scroll 0}\n “ИЧ@ёШ@HЖС@@@7@ж@3щЛ”  </Text>
+    <Text>{scroll 0}{branch 160} ... {live} ... {live}</Text>
+    <Text>{scroll 0}\n</Text>
 </Strings>

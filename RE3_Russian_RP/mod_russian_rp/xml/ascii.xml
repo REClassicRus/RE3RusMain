@@ -38,7 +38,7 @@
 	<Text>reserved</Text>
 	<!-- quit screen, full set support -->
 	<Text>ВЫЙТИ ИЗ ИГРЫ: F9</Text>
-	<Text>СБРОС ИГРЫ: F9</Text>
+	<Text>СБРОСИТЬ ИГРУ: F9</Text>
 	<Text>ОТМЕНА: ЛЮБАЯ КЛАВИША</Text>
 	<Text>reserved</Text>
 	<Text>reserved</Text>
@@ -94,8 +94,8 @@
 	<Text>Сменить цель</Text>
 	<Text>Поворот направо</Text>
 	<Text>Поворот налево</Text>
-	<Text>Вперёд</Text>
 	<Text>Назад</Text>
+	<Text>Вперёд</Text>
 	<Text>Выход</Text>
 	<Text>Применить</Text>
 	<Text>Отменить</Text>

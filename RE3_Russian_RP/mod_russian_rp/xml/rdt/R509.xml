@@ -7,5 +7,5 @@
     <Text>{scroll 2}</Text>
     <Text>{scroll 2}</Text>
     <Text>{scroll 2}</Text>
-    <Text>{scroll 0}Внимание: Подготовка к\nзапуску цеха переработки. {clear 125}Просьба немедленно\nпокинуть помещение.{scroll 1}{timed 73}</Text>
+    <Text>{scroll 0}Внимание: подготовка к\nзапуску цеха переработки.{clear 125}Просьба немедленно\nпокинуть помещение.{scroll 1}{timed 73}</Text>
 </Strings>

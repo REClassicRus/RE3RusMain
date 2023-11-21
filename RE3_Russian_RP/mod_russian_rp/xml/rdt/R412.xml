@@ -7,7 +7,7 @@
     <Text>{scroll 0}Ты не перестаёшь удивлять\nменя своей живучестью...{scroll 1}{timed 104}</Text>
     <Text>{scroll 0}Я смотрю, тебе тоже нет\nравных в деле спасения{clear 61}\nсобственной шкуры!{clear 51}{clear 6}Так почему бы нам не\nпомочь друг другу?{scroll 1}{timed 61}</Text>
     <Text>{scroll 0}У меня нет никакого\nжелания помогать тебе.{scroll 1}{timed 87}</Text>
-    <Text>{scroll 0}Потому что мы не более чем\nпешки во всей этой истории..?{scroll 1}{timed 77}</Text>
+    <Text>{scroll 0}Потому что мы не более чем\nпешки во всей этой истории?..{scroll 1}{timed 77}</Text>
     <Text>{scroll 0}\nОбразно говоря, да...{timed 69}</Text>
     <Text>{scroll 0}Нашим нанимателям\nпонадобился детальный анализ{clear 68}зомби-существ, созданных\nпутём заражения Т-вирусом.{scroll 1}{timed 101}</Text>
     <Text>{scroll 0}Xочешь сказать, они специально\nпослали отряд военных,{clear 97}чтобы посмотреть как с ними\nрасправятся эти твари?!{timed 83}</Text>
@@ -15,6 +15,6 @@
     <Text>{scroll 0}Всё, что от нас требовалось,\nэто собрать боевые{clear 57}\nпоказатели участников.{clear 64}{scroll 1}{timed 2}</Text>
     <Text>{scroll 0}\nЕщё один мутант!{scroll 1}{timed 50}</Text>
     <Text>{scroll 2}Эти дрова можно\nподжечь.{clear 0}От стены камина дует\nлёгкий сквозняк.</Text>
-    <Text>{scroll 0}\n {scroll 1}{timed 240}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 240}</Text>
     <Text>{scroll 2}Вам больше не нужна\nэта {color 1}Зажигалка{color 0}.{clear 0}Выбросить её?\n{branch 0}</Text>
 </Strings>

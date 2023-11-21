@@ -7,6 +7,6 @@
     <Text>{scroll 0}Взрыв будет настолько мощным,\nчто уничтожит здесь всё!{scroll 1}{timed 101}</Text>
     <Text>{scroll 0}\nТы уверен в этом?{scroll 1}{timed 48}</Text>
     <Text>{scroll 0}\nАбсолютно!{clear 36}Я сам слышал это от одного\nиз наблюдателей.{scroll 1}{timed 55}</Text>
-    <Text>{scroll 0}Они готовы зайти так далеко,\nчтобы замести свои следы..?!{scroll 1}{timed 87}</Text>
+    <Text>{scroll 0}Они готовы зайти так далеко,\nчтобы замести свои следы?!{scroll 1}{timed 87}</Text>
     <Text>{scroll 0}Давай, нам нужно торопиться,\nу нас мало времени.{scroll 1}{timed 87}</Text>
 </Strings>

@@ -5,7 +5,7 @@
     <Text>{scroll 0}Спасибо, Карлос.\nЯ твоя должница.{scroll 1}{timed 90}</Text>
     <Text>{scroll 0}Послушай внимательно,\nДжилл.{scroll 1}{timed 50}</Text>
     <Text>{scroll 0}Они собираются нанести\nракетный удар по городу{clear 86}\nс наступлением рассвета.{scroll 1}{timed 52}</Text>
-    <Text>{scroll 0}На рассвете?\nН-но ведь это уже..?{scroll 1}{timed 75}</Text>
+    <Text>{scroll 0}На рассвете?\nН-но ведь это уже...{scroll 1}{timed 75}</Text>
     <Text>{scroll 0}Знаю. У нас совсем\nмало времени.{scroll 1}{timed 99}</Text>
     <Text>{scroll 0}Мы должны разделиться и\nнайти выход отсюда.{scroll 1}{timed 87}</Text>
     <Text>{scroll 0}\nДа, и ещё.{clear 37}Держись подальше от этого\nпредателя, Николая...{scroll 1}{timed 69}</Text>

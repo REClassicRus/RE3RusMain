@@ -9,7 +9,7 @@
     <Text>{scroll 2}\nНичего необычного.</Text>
     <Text>{scroll 2}Кажется, это переключатель\nводостока.</Text>
     <Text>{scroll 2}Кажется, это переключатель\nводостока.{clear 0}Нажать на кнопку?\n{branch 0}</Text>
-    <Text>{scroll 2}  \n {clear 0}\n </Text>
+    <Text>{scroll 2}\n{clear 0}\n</Text>
     <Text>{scroll 2}Внизу видна поверхность\nводы.</Text>
     <Text>{scroll 0}{clear 37}\nКто здесь?!{timed 34}</Text>
     <Text>{scroll 0}Спокойно, леди.\nЯ не зомби.{scroll 1}{timed 76}</Text>
@@ -21,7 +21,7 @@
     <Text>{scroll 0}Не может быть!\nКак он нашёл меня?{scroll 1}{timed 95}</Text>
     <Text>{scroll 0}{branch 160}Спуститься в подвал{live}Спрятаться за кухней{live}</Text>
     <Text>{scroll 0}\nСюда!{scroll 1}{timed 38}</Text>
-    <Text>{scroll 0}\nТы что, спятила?!{clear 41}Ты чуть не поджарила\nнас обоих!!{scroll 1}{timed 57}</Text>
+    <Text>{scroll 0}\nТы что, спятила?!{clear 41}Ты чуть не поджарила\nнас обоих!{scroll 1}{timed 57}</Text>
     <Text>{scroll 0}\nСюда!{scroll 1}{timed 28}</Text>
     <Text>{scroll 0}{scroll 1}{timed 74}</Text>
     <Text>{scroll 0}{scroll 1}{timed 231}</Text>

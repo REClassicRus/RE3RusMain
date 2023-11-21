@@ -15,7 +15,7 @@
     <Text>{scroll 0}{branch 160}Выпрыгнуть из окна{live}Спрятаться сзади{live}</Text>
     <Text>{scroll 0}\n                  {scroll 1}{timed 34}</Text>
     <Text>{scroll 0}\nНу же!{scroll 1}{timed 34}</Text>
-    <Text>{scroll 0}Ау..!\nВот это номер!{scroll 1}{timed 52}</Text>
+    <Text>{scroll 0}Ау!..\nВот это номер!{scroll 1}{timed 52}</Text>
     <Text>{scroll 0}\nТогда придётся потерпеть.{clear 39}Эта тварь хочет меня убить!\nНам надо убираться отсюда!{scroll 1}{timed 72}</Text>
     <Text>{scroll 0}\n                  {scroll 1}{timed 35}</Text>
     <Text>{scroll 0}\n                  {scroll 1}{timed 40}</Text>

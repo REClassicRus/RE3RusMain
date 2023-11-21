@@ -1,6 +1,6 @@
 ﻿<Strings>
     <Text>{scroll 2}Похоже, он был застрелен\nв упор.</Text>
-    <Text>{scroll 2}\n“Доступ в эту зону закрыт.”</Text>
+    <Text>{scroll 2}\n“Доступ в эту зону закрыт”.</Text>
     <Text>{scroll 2}\nВ его в руке что-то есть.</Text>
     <Text>{scroll 2}{cut 8}{snd 22}Задние ворота\nРаккун-парка.{clear 0}\nЗаперто.</Text>
     <Text>{scroll 2}Этот ключ вам больше\nне нужен.{clear 0}Выбросить его?\n{branch 0}</Text>

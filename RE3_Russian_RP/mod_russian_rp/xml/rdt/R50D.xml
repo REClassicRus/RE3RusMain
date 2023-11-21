@@ -1,21 +1,21 @@
 ﻿<Strings>
     <Text>{scroll 2}Образец смертоносного\nбиооружия Амбреллы.</Text>
     <Text>{scroll 2}Снаружи что-то взорвалось.\nДверь не поддаётся.</Text>
-    <Text>{scroll 2}Блок резервного питания.\nСейчас он не подключен.</Text>
+    <Text>{scroll 2}Блок резервного питания.\nСейчас он не подключён.</Text>
     <Text>{scroll 2}Нет питания.\nЛифт заблокирован.</Text>
     <Text>{scroll 0}{branch 160}Уничтожить монстра{live}Игнорировать и эвакуироваться{live}</Text>
     <Text>{scroll 2}\nЭти двери уже не открыть.</Text>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 2}Панель управления\nрезервным питанием.{clear 0}“Питание внешних\nустройств активировано.”</Text>
-    <Text>{scroll 2}На дисплее схема\nуправления питанием.{clear 0}“Внешние устройства\nобесточены.”</Text>
+    <Text>{scroll 2}Панель управления\nрезервным питанием.{clear 0}“Питание внешних\nустройств активировано”.</Text>
+    <Text>{scroll 2}На дисплее схема\nуправления питанием.{clear 0}“Внешние устройства\nобесточены”.</Text>
     <Text>{scroll 2}Транспортная капсула\nс маркировкой “Т”.</Text>
     <Text>{scroll 2}\nТело бойца спецназа США.</Text>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 2}\nГлавный узел устройства.{clear 0}К нему подключен\nогромный кабель.</Text>
+    <Text>{scroll 2}\nГлавный узел устройства.{clear 0}К нему подключён\nогромный кабель.</Text>
     <Text>{scroll 2}Блок резервного питания,\nпомеченный цифрой “1”.</Text>
     <Text>{scroll 2}Блок резервного питания,\nпомеченный цифрой “2”.</Text>
     <Text>{scroll 2}Блок резервного питания,\nпомеченный цифрой “3”.</Text>
-    <Text>{scroll 0}Внимание: Недостаточно\nэнергии для активации системы.{scroll 1}{timed 133}</Text>
+    <Text>{scroll 0}Внимание: недостаточно\nэнергии для активации системы.{scroll 1}{timed 133}</Text>
     <Text>{scroll 0}\nПроверка батареи.{scroll 1}{timed 61}</Text>
     <Text>{scroll 0}\nБатарея подключена.{clear 65}Рельсовая пушка\nактивирована.{scroll 1}{timed 99}</Text>
     <Text>{scroll 0}\nПроверка системы.{scroll 1}{timed 61}</Text>
@@ -23,11 +23,11 @@
     <Text>{scroll 0}\n{timed 119}</Text>
     <Text>{scroll 0}\n{timed 132}</Text>
     <Text>{scroll 0}\n{timed 120}</Text>
-    <Text>{scroll 0}\nВнимание: Перегрев системы. {clear 88}{clear 7}\nВключаю режим охлаждения.{scroll 1}{timed 78}</Text>
+    <Text>{scroll 0}\nВнимание: перегрев системы. {clear 88}{clear 7}\nВключаю режим охлаждения.{scroll 1}{timed 78}</Text>
     <Text>{scroll 0}\n{timed 115}</Text>
     <Text>{scroll 0}\nБатарея подключена.{scroll 1}{timed 65}</Text>
     <Text>{scroll 0}\nОгонь.{scroll 1}{timed 50}</Text>
-    <Text>{scroll 0}Ты хотел ＳＴＡＲＳ\nЯ дам тебе ＳＴＡＲＳ{scroll 1}{timed 101}</Text>
+    <Text>{scroll 0}Ты хотел ＳＴＡＲＳ?\nЯ дам тебе ＳＴＡＲＳ!{scroll 1}{timed 101}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 193}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 65}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 117}</Text>

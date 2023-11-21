@@ -8,17 +8,17 @@
     <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}\n</Text>
     <Text>{scroll 2}\n</Text>
-    <Text>{scroll 0}\n      @ @ @       {timed 60}</Text>
+    <Text>{scroll 0}\n{timed 60}</Text>
     <Text>{scroll 0}\n{timed 76}</Text>
     <Text>{scroll 0}\nДжилл!{timed 25}</Text>
     <Text>{scroll 0}\n{timed 68}</Text>
     <Text>{scroll 0}\n{timed 20}</Text>
     <Text>{scroll 0}\n{timed 64}</Text>
-    <Text>{scroll 0}\nДжилл..!{timed 32}</Text>
-    <Text>{scroll 0}\nКарлос..!{timed 34}</Text>
+    <Text>{scroll 0}\nДжилл!..{timed 32}</Text>
+    <Text>{scroll 0}\nКарлос!..{timed 34}</Text>
     <Text>{scroll 0}\nЭй, ты только не умирай...{timed 70}</Text>
     <Text>{scroll 0}\n{timed 41}</Text>
-    <Text>{scroll 0}\nДжилл!! Держись!{timed 59}</Text>
+    <Text>{scroll 0}\nДжилл! Держись!{timed 59}</Text>
     <Text>{scroll 0}\nЧто я наделал!{timed 40}</Text>
     <Text>{scroll 0}\nПрости меня, Джилл...{clear 44}{clear 18}\nПожалуйста, очнись!{scroll 1}{timed 70}</Text>
 </Strings>

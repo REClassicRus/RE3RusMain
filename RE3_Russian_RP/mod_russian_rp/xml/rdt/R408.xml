@@ -1,5 +1,5 @@
 ﻿<Strings>
-    <Text>{scroll 0}Николай?!\nТак ты не погиб..?!{scroll 1}{timed 77}</Text>
+    <Text>{scroll 0}Николай?!\nТак ты не погиб?!{scroll 1}{timed 77}</Text>
     <Text>{scroll 0}\nТы видел, что случилось?{scroll 1}{timed 51}</Text>
     <Text>{scroll 0}\nЧто происходит?{scroll 1}{timed 46}</Text>
     <Text>{scroll 0}\nЯ один из наблюдателей. {clear 64}Это всё, что ты\nдолжен знать.{scroll 1}{timed 71}</Text>

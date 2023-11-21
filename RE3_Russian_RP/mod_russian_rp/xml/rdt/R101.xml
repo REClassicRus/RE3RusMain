@@ -4,7 +4,7 @@
     <Text>{scroll 2}Здесь хранится испорченная\nпродукция.</Text>
     <Text>{scroll 2}\nТревогу уже включили.</Text>
     <Text>{scroll 2}\nТут больше ничего нет.</Text>
-    <Text>{scroll 2}\nКонтейнер заперт изнутри. </Text>
+    <Text>{scroll 2}\nКонтейнер заперт изнутри.</Text>
     <Text>{scroll 2}\nНичего полезного.</Text>
     <Text>{scroll 0}{scroll 1}{clear 5}{scroll 2}\n{snd 34}2{snd 34}8{snd 36}{scroll 5}{s}{scroll 2}{snd 34}с{snd 34}е{snd 34}н{snd 34}т{snd 34}я{snd 34}б{snd 34}р{snd 34}я{snd 34}.{snd 36}{scroll 5}{s}{scroll 2}{snd 34}Д{snd 34}е{snd 34}н{snd 34}ь{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{snd 35}{s}\n{scroll 1}{timed 55}</Text>
     <Text>{scroll 2}{snd 34}М{snd 34}о{snd 34}н{snd 34}с{snd 34}т{snd 34}р{snd 34}ы{snd 36}{scroll 5}{s}{scroll 2}{snd 34}з{snd 34}а{snd 34}х{snd 34}в{snd 34}а{snd 34}т{snd 34}и{snd 34}л{snd 34}и{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}г{snd 34}о{snd 34}р{snd 34}о{snd 34}д{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 64}</Text>
@@ -15,6 +15,6 @@
     <Text>{scroll 0}Я только что потерял\nтам свою дочь!{clear 77}И ты хочешь чтоб после этого\nя снова вышел на улицу?!{timed 90}</Text>
     <Text>{scroll 0}\nМне жаль твою дочь...{clear 55}Но дожидаться помощи\nздесь бессмысленно.{clear 70}Нам нужно выбираться\nотсюда!{timed 69}</Text>
     <Text>{scroll 0}\nНет! Я никуда не пойду!{scroll 1}{timed 100}</Text>
-    <Text>{scroll 0}По мне, так лучше\nумереть здесь с голоду,{clear 75}чем накормить собой одного\nиз тех чёртовых монстров!{clear 76}А теперь оставь меня\nв покое!!{scroll 1}{timed 56}</Text>
-    <Text>{scroll 0}\nСказал же..!{clear 48}\nЯ отсюда не выйду!{clear 48}\nНикогда!!{clear 50}\nПросто забудь обо мне!{timed 72}</Text>
+    <Text>{scroll 0}По мне, так лучше\nумереть здесь с голоду,{clear 75}чем накормить собой одного\nиз тех чёртовых монстров!{clear 76}А теперь оставь меня\nв покое!{scroll 1}{timed 56}</Text>
+    <Text>{scroll 0}\nСказал же!..{clear 48}\nЯ отсюда не выйду!{clear 48}\nНикогда!{clear 50}\nПросто забудь обо мне!{timed 72}</Text>
 </Strings>

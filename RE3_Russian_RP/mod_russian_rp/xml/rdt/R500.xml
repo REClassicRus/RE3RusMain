@@ -2,7 +2,7 @@
     <Text>{scroll 2}Закрыто на электронный\nзамок.</Text>
     <Text>{scroll 2}\nСчитыватель {color 1}Ключ-карт{color 0}.</Text>
     <Text>{scroll 2}Включена аварийная\nблокировка.</Text>
-    <Text>{scroll 0}\nНиколай..?!{scroll 1}{timed 40}</Text>
-    <Text>{scroll 250}.{timed 85}</Text>
+    <Text>{scroll 0}\nНиколай?..{scroll 1}{timed 40}</Text>
+    <Text>{scroll 0}\n{scroll 1}{timed 85}</Text>
     <Text>{scroll 2}Эта {color 1}Ключ-карта{color 0} вам\nбольше не нужна.{clear 0}Выбросить её?\n{branch 0}</Text>
 </Strings>

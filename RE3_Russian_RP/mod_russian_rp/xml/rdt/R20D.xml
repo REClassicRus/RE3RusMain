@@ -1,6 +1,6 @@
 ﻿<Strings>
     <Text>{scroll 0}\nЯ посмотрю что там...{scroll 1}{timed 45}</Text>
-    <Text>{scroll 0}\nНиколай!!{scroll 1}{timed 42}</Text>
+    <Text>{scroll 0}\nНиколай!{scroll 1}{timed 42}</Text>
     <Text>{scroll 0}\nДжилл!{scroll 1}{timed 40}</Text>
     <Text>{scroll 0}Эй...\nЗомби что-то всполошились.{scroll 1}{timed 81}</Text>
     <Text>{scroll 0}\nЗнаю.{scroll 1}{timed 33}</Text>
@@ -23,6 +23,6 @@
     <Text>{scroll 2}Здесь разлито машинное\nмасло.</Text>
     <Text>{scroll 2}Карлос наблюдает\nза улицей.</Text>
     <Text>{scroll 0}\nПолучайте!{scroll 1}{timed 32}</Text>
-    <Text>{scroll 0}                  {scroll 1}{timed 31}</Text>
-    <Text>{scroll 0}                  {scroll 1}{timed 35}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 31}</Text>
+    <Text>{scroll 0} {scroll 1}{timed 35}</Text>
 </Strings>
