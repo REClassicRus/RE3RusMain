@@ -2,8 +2,8 @@
 Перевод Resident Evil 3 на русский язык для [патча Resident Evil Classic REbirth](https://classicrebirth.com/index.php/downloads/resident-evil-3-classic-rebirth/). 
 
 ## Папки
-* `RE3_Russian_RP/mod_russian` - основная папка перевода (все файлы).
-* `RE3_Russian_RP/mod_russian_with_subtitles` - папка с файлами субтитров (чтобы не дублировать файлы).
+* `RE3_Russian_RP/mod_russian` - основная папка перевода (с субтитрами, все файлы).
+* `RE3_Russian_RP/mod_russian_without_subtitles` - папка с файлами убирающие субтитры (с заменой поверх).
 * `RE3_Russian_RP/mod_russian_hd` - папка для hd мода (шрифт, документы и прочее).
 
 ## Нашли ошибку? Хотите улучшить перевод?
