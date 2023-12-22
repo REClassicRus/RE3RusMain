@@ -6,14 +6,14 @@
     <Text>{scroll 2}\nТут больше ничего нет.</Text>
     <Text>{scroll 2}\nКонтейнер заперт изнутри.</Text>
     <Text>{scroll 2}\nНичего полезного.</Text>
-    <Text>{scroll 0}{scroll 1}{clear 5}{scroll 2}\n{snd 34}2{snd 34}8{snd 36}{scroll 5}{s}{scroll 2}{snd 34}с{snd 34}е{snd 34}н{snd 34}т{snd 34}я{snd 34}б{snd 34}р{snd 34}я{snd 34}.{snd 36}{scroll 5}{s}{scroll 2}{snd 34}Д{snd 34}е{snd 34}н{snd 34}ь{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{snd 35}{s}\n{scroll 1}{timed 55}</Text>
-    <Text>{scroll 2}{snd 34}М{snd 34}о{snd 34}н{snd 34}с{snd 34}т{snd 34}р{snd 34}ы{snd 36}{scroll 5}{s}{scroll 2}{snd 34}з{snd 34}а{snd 34}х{snd 34}в{snd 34}а{snd 34}т{snd 34}и{snd 34}л{snd 34}и{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}г{snd 34}о{snd 34}р{snd 34}о{snd 34}д{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 64}</Text>
-    <Text>{scroll 2}\n{snd 34}К{snd 34}а{snd 34}к{snd 34}и{snd 34}м{snd 34}-{snd 34}т{snd 34}о{snd 36}{scroll 5}{s}{scroll 2}{snd 34}ч{snd 34}у{snd 34}д{snd 34}о{snd 34}м{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 48}</Text>
-    <Text>{scroll 2}\n{snd 34}М{snd 34}н{snd 34}е{snd 36}{scroll 5}{s}{scroll 2}{snd 34}у{snd 34}д{snd 34}а{snd 34}л{snd 34}о{snd 34}с{snd 34}ь{snd 36}{scroll 5}{s}{scroll 2}{snd 34}у{snd 34}ц{snd 34}е{snd 34}л{snd 34}е{snd 34}т{scroll 8}{snd 34}ь{snd 34}.{snd 34}.{snd 34}.{snd 35}{scroll 5}{s}\n{scroll 1}{timed 62}</Text>
+    <Text>{scroll 0}{scroll 1}{clear 6}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 36}{scroll 5}{s}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 35}{scroll 5}{s}\n{snd 35}{s}\n{scroll 1}{timed 24}</Text>
+    <Text>{scroll 2}{snd 34}{snd 34}{snd 34}{snd 36}{scroll 5}{s}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 36}{scroll 5}{s}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 35}{scroll 5}{s}\n{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 36}{scroll 5}{s}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 36}{scroll 5}{s}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 35}{scroll 5}{s}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}\n{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 35}{scroll 5}{s}\n{scroll 1}{timed 48}</Text>
+    <Text>{scroll 2}\n{snd 34}{snd 34}{snd 34}{snd 36}{scroll 5}{s}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{snd 34}{snd 36}{scroll 5}{s}{scroll 2}{snd 34}{snd 34}{snd 34}{snd 34}{scroll 8}{snd 34}{snd 34}{snd 34}{snd 34}{snd 35}{scroll 5}{s}\n{scroll 1}{timed 74}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 102}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 36}{scroll 0}\n{scroll 1}{timed 54}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 84}{scroll 0}\n{scroll 1}{timed 84}</Text>
-    <Text>{scroll 0}{scroll 1}{clear 90}{scroll 0}\n{scroll 1}{timed 108}</Text>
+    <Text>{scroll 0}\n{scroll 1}{clear 90}{scroll 0}\n{scroll 1}{timed 108}</Text>
     <Text>{scroll 0}\n{scroll 1}{timed 102}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 96}{scroll 0}\n{scroll 1}{clear 66}{scroll 0}\n{scroll 1}{timed 60}</Text>
     <Text>{scroll 0}\n{scroll 1}{clear 12}{scroll 0}\n{scroll 1}{clear 42}{scroll 0}\n{scroll 1}{timed 85}</Text>
