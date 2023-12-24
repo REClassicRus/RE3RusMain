@@ -27,7 +27,7 @@
 	<Entry Encode="0x17" Char=";" width="5" indent="3"/>
 	<Entry Encode="0x18" Char="," width="7" indent="2"/>
 	<Entry Encode="0x19" Char="&#34;" width="7"/>
-	<Entry Encode="0x1A" Char="!" width="4" indent="4"/>
+	<Entry Encode="0x1A" Char="!" width="5" indent="4"/>
 	<Entry Encode="0x1B" Char="?" width="8" indent="2"/>
 	<Entry Encode="0x1C" Char="$" width="10" indent="1"/>
 	<Entry Encode="0x1D" Char="A" width="14"/>
