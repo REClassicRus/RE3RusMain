@@ -15,4 +15,4 @@
 [Оригинальный текст на английском](https://github.com/Gemini-Loboto3/RE3-Mod-SDK/tree/main/xml_eng) (без субтитров), [итальянский](https://github.com/Gemini-Loboto3/RE3-Mod-SDK/tree/main/xml_ita) (с субтитрами), [немецкий](https://www.nexusmods.com/residentevil3nemesis/mods/5) с субтитрами.
 
 ## Загрузка
-[Последняя версия](https://github.com/REClassicRus/RE3RusMain/archive/refs/heads/master.zip)
+[Последняя версия](https://mega.nz/folder/fqg3SSwZ#yebAg87JARCcGXhbpGFOLg)
